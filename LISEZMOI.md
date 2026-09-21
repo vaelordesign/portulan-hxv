@@ -8,8 +8,11 @@ cartes et extraits du manuel compris), la présentation `HXV_-_Examen_Intra.pptx
 corrigé officiel de l'exemple sur les Ottomans) et le plan de cours.
 
 ## Ouvrir
-- Double-cliquer sur `docs/index.html` (page complète, marche sans Internet sauf les polices).
-- Ou l'Artifact (privé, adresse donnée dans la conversation du 21 sept. 2026).
+- **En ligne, sans compte** : https://vaelordesign.github.io/portulan-hxv/ (dépôt public `vaelordesign/portulan-hxv`,
+  GitHub Pages servi depuis `docs/`; page en noindex, donc pas dans Google). Mis en ligne à la demande de Julien le 21 sept. 2026.
+- Double-cliquer sur `docs/index.html` (page complète, marche sans Internet sauf les polices). Une copie,
+  `Portulan-HXV.html`, et le PDF des fiches sont aussi dans `Grasset Session 1\Histoire\`.
+- Ou l'Artifact (privé) : https://claude.ai/artifact/C7M4rjBYb1SikNDtXi1iZu
 - La progression (fiches cochées, questions ratées, examens blancs, examen en cours) reste dans le
   navigateur (localStorage, clés `portulan-hxv` et `portulan-hxv-draft`). Aucun compte, aucun serveur.
 
@@ -39,6 +42,9 @@ Le code est découpé dans `parts/` :
 `node build.js` vérifie la banque (ids, fiches, formats, aucun tiret long) puis écrit `portulan-hxv.html`
 (fragment pour l'Artifact) et `docs/index.html` (page complète). Test local : `node serve.js`, puis
 http://localhost:8766/ (lancement `portulan` dans `Typing\.claude\launch.json`).
+
+Après une modification : `node build.js`, puis `git add -A`, `git commit`, `git push` : GitHub Pages se
+redéploie seul en une minute. Pour garder l'Artifact à jour aussi, republier `portulan-hxv.html` à la même adresse.
 
 ## Points d'attention
 - L'exemple officiel du prof dit Zheng He « du XIVe siècle » : ses expéditions datent de 1405-1433 (signalé).
