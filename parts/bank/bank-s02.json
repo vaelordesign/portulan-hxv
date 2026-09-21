@@ -1,0 +1,250 @@
+[
+ {
+  "id": "F02-01",
+  "s": "s2",
+  "t": "qcm",
+  "q": "Selon la définition vue en classe, qu'est-ce que l'histoire ?",
+  "o": [
+   "Une science qui enquête sur le passé et doit prouver ce qu'elle avance (du grec Historiai, « enquête »).",
+   "Un récit fidèle du passé qui, une fois écrit, ne change plus jamais.",
+   "L'ensemble des événements passés, indépendamment de ceux qui les étudient.",
+   "Un roman inspiré de faits réels, dans lequel l'auteur peut inventer librement."
+  ],
+  "a": 0,
+  "w": "Le mot vient du grec Historiai, « enquête » : l'histoire est une science qui doit prouver ce qu'elle avance, grâce aux sources. Elle n'est pas figée (elle change avec le présent) et, contrairement à un roman, elle ne peut rien inventer."
+ },
+ {
+  "id": "F02-02",
+  "s": "s2",
+  "t": "qcm",
+  "q": "En français, le mot « histoire » désigne à la fois :",
+  "o": [
+   "l'enquête, la preuve et la source",
+   "le passé, le présent et l'avenir",
+   "le récit, le passé et la discipline historique",
+   "la mémoire, le mythe et la légende"
+  ],
+  "a": 2,
+  "w": "C'est le « problème » du français souligné par le prof : « je vous explique l'histoire en racontant des histoires » veut dire « je vous explique le passé en racontant des récits », en tant que pratiquant de la discipline historique."
+ },
+ {
+  "id": "F02-03",
+  "s": "s2",
+  "t": "qcm",
+  "q": "Qui a écrit : « L'Histoire est un roman, mais un roman vrai » ?",
+  "o": [
+   "Patrick Boucheron",
+   "Leslie Poles Hartley",
+   "Michel-Rolph Trouillot",
+   "Paul Veyne"
+  ],
+  "a": 3,
+  "w": "La phrase est de Paul Veyne : l'histoire raconte, comme un roman, mais ce qui l'en distingue, c'est la preuve, donc les sources. Boucheron et Hartley sont les auteurs des phrases vues au premier cours, Trouillot celui de Faire taire le passé."
+ },
+ {
+  "id": "F02-04",
+  "s": "s2",
+  "t": "qcm",
+  "q": "Laquelle de ces définitions correspond à une source primaire ?",
+  "o": [
+   "Un travail produit plus tard par quelqu'un qui étudie et interprète des traces du passé.",
+   "Une trace produite à l'époque étudiée, par un témoin ou un acteur des événements.",
+   "Un texte écrit, obligatoirement, par un témoin qui dit la vérité.",
+   "Tout document conservé dans des archives officielles."
+  ],
+  "a": 1,
+  "w": "Le critère d'une source primaire, c'est le moment et la position de l'auteur : produite à l'époque, par un témoin ou un acteur. Elle n'est pas forcément un texte ni forcément vraie; la première option définit la source secondaire."
+ },
+ {
+  "id": "F02-05",
+  "s": "s2",
+  "t": "qcm",
+  "q": "Parmi ces documents cités dans le cours, lequel est une source secondaire ?",
+  "o": [
+   "Le chapeau de Vermeer, de Timothy Brook",
+   "Le journal de Colomb (1492)",
+   "La Muqaddima d'Ibn Khaldun (1377)",
+   "La lettre du pape Léon X (1517)"
+  ],
+  "a": 0,
+  "w": "Le chapeau de Vermeer est un livre d'historien qui étudie et interprète des sources, donc une source secondaire. Le journal de Colomb, la Muqaddima et la lettre de Léon X ont été produits à l'époque par des témoins ou des acteurs : ce sont des sources primaires."
+ },
+ {
+  "id": "F02-06",
+  "s": "s2",
+  "t": "qcm",
+  "q": "Lequel de ces éléments est une source primaire ?",
+  "o": [
+   "Des tessons de poterie trouvés en fouilles",
+   "Une biographie de Napoléon",
+   "La revue savante Annales",
+   "Le manuel Histoire du monde"
+  ],
+  "a": 0,
+  "w": "Une source primaire n'est pas forcément un texte : un objet archéologique de l'époque, comme des tessons de poterie ou des pointes de flèche, en est une. La biographie, la revue Annales et le manuel sont des travaux faits plus tard : des sources secondaires."
+ },
+ {
+  "id": "F02-07",
+  "s": "s2",
+  "t": "qcm",
+  "q": "Le tableau Vasco de Gama devant le Zamorin de Calicut date de 1898. Pourquoi n'est-il pas une source primaire sur le voyage de 1498 ?",
+  "o": [
+   "Parce qu'une image ne peut jamais être une source primaire.",
+   "Parce que Vasco de Gama n'est jamais allé à Calicut.",
+   "Parce qu'un tableau conservé dans un musée devient automatiquement une source secondaire.",
+   "Parce qu'il a été produit quatre siècles après les faits, par quelqu'un qui n'en a pas été témoin."
+  ],
+  "a": 3,
+  "w": "Ce qui compte, c'est le moment où la trace est produite : peint en 1898, quatre siècles après 1498, le tableau n'est pas une source primaire sur ce voyage (même piège pour Cabral aperçoit le Brésil, peint en 1900). Une image d'époque, elle, peut très bien être une source primaire."
+ },
+ {
+  "id": "F02-08",
+  "s": "s2",
+  "t": "qcm",
+  "q": "Selon Michel-Rolph Trouillot, à quel moment se pose la question « Qu'est-ce qu'on a choisi de conserver à long terme ? »",
+  "o": [
+   "La fabrique des sources",
+   "La fabrique des archives",
+   "La fabrique des récits",
+   "La fabrique de l'histoire"
+  ],
+  "a": 1,
+  "w": "Trouillot distingue quatre moments où des silences entrent dans l'histoire : la fabrique des sources (laisser une trace), des archives (conserver), des récits (raconter) et de l'histoire (juger ce qui est historique). Conserver à long terme, c'est le rôle des archives."
+ },
+ {
+  "id": "F02-09",
+  "s": "s2",
+  "t": "qcm",
+  "q": "Que montre l'exemple de John A. Macdonald (billet de 10 $, statue de Montréal couverte de peinture rouge) ?",
+  "o": [
+   "Que le passé change lorsqu'on découvre de nouvelles sources.",
+   "Que le rôle des premiers ministres ne fait jamais l'objet de débats historiques.",
+   "Que le passé ne change pas, mais que son interprétation change avec le présent.",
+   "Que les monuments publics sont les meilleures sources sur le passé."
+  ],
+  "a": 2,
+  "w": "Le passé de Macdonald, premier premier ministre du Canada, n'a pas changé, mais on juge aujourd'hui aussi son rôle dans les politiques contre les peuples autochtones. C'est l'idée du cours : l'histoire est en constant changement, bien que le passé, lui, ne change pas."
+ },
+ {
+  "id": "F02-10",
+  "s": "s2",
+  "t": "vf",
+  "q": "Selon le cours, le contrat de vérité de l'historien (dire vrai, prouver) fait disparaître complètement sa subjectivité.",
+  "a": false,
+  "w": "Faux : le contrat de vérité entre en collision avec la subjectivité humaine, qui limite l'écriture de l'histoire. C'est pourquoi l'histoire n'est jamais neutre."
+ },
+ {
+  "id": "F02-11",
+  "s": "s2",
+  "t": "vf",
+  "q": "Une source primaire n'est pas forcément « vraie » : Colomb décrit les Taïnos avec ses préjugés, et il faut donc critiquer son journal.",
+  "a": true,
+  "w": "Vrai : une source primaire est un témoignage d'époque, pas une vérité garantie. L'historien doit la critiquer, par exemple en repérant les préjugés de Colomb sur les Taïnos."
+ },
+ {
+  "id": "F02-12",
+  "s": "s2",
+  "t": "vf",
+  "q": "Un témoignage oral, comme les entrevues d'histoire orale de la Longue-Pointe, peut être une source primaire.",
+  "a": true,
+  "w": "Vrai : le critère est le moment et la position de l'auteur, pas le support. Une parole enregistrée, un objet ou une image peuvent être des sources primaires."
+ },
+ {
+  "id": "F02-13",
+  "s": "s2",
+  "t": "vf",
+  "q": "Pour Trouillot, les silences de l'histoire reflètent des rapports de pouvoir : les peuples colonisés ou réduits en esclavage ont laissé moins d'archives écrites que les colonisateurs.",
+  "a": true,
+  "w": "Vrai : ce qu'on laisse comme trace, ce qu'on conserve, ce qu'on raconte et ce qu'on juge historique dépend du pouvoir. C'est pourquoi le point de vue de ces peuples a longtemps été oublié."
+ },
+ {
+  "id": "F02-14",
+  "s": "s2",
+  "t": "vf",
+  "q": "Une conférence de l'historienne Delphine Peiretti-Courtis est un exemple de source primaire.",
+  "a": false,
+  "w": "Faux : c'est un exemple de source secondaire donné sur la diapo, car l'historienne étudie et interprète des sources produites avant elle. Il en va de même pour une biographie de Napoléon ou la revue Annales."
+ },
+ {
+  "id": "F02-15",
+  "s": "s2",
+  "t": "courte",
+  "q": "Mot grec qui signifie « enquête » et qui est à l'origine du mot « histoire ».",
+  "acc": [
+   "historiai",
+   "historia",
+   "istoriai"
+  ],
+  "m": "Historiai. Le mot grec signifie « enquête » : l'histoire est une science qui enquête sur le passé et doit prouver ce qu'elle avance.",
+  "k": [
+   "Historiai",
+   "enquête",
+   "science"
+  ]
+ },
+ {
+  "id": "F02-16",
+  "s": "s2",
+  "t": "courte",
+  "q": "Travail produit plus tard par quelqu'un qui étudie et interprète les sources primaires (par exemple Le chapeau de Vermeer de Timothy Brook ou le manuel Histoire du monde).",
+  "acc": [
+   "source secondaire",
+   "sources secondaires"
+  ],
+  "m": "Une source secondaire. Elle est produite après les événements par quelqu'un qui n'en a pas été témoin et qui interprète les sources primaires, comme un historien dans un livre ou une conférence.",
+  "k": [
+   "source secondaire",
+   "interprétation",
+   "plus tard"
+  ]
+ },
+ {
+  "id": "F02-17",
+  "s": "s2",
+  "t": "courte",
+  "q": "Selon Paul Veyne, « l'Histoire est un roman, mais un roman vrai ». Qu'est-ce qui distingue l'histoire d'un roman ?",
+  "acc": [
+   "preuve",
+   "preuves",
+   "sources",
+   "preuve documentaire"
+  ],
+  "m": "La preuve. L'histoire doit prouver ce qu'elle avance, et cette preuve documentaire, ce sont les sources.",
+  "k": [
+   "preuve",
+   "sources",
+   "Paul Veyne"
+  ]
+ },
+ {
+  "id": "F02-18",
+  "s": "s2",
+  "t": "courte",
+  "q": "Auteur de Faire taire le passé. Pouvoir et production historique, qui distingue quatre moments où des silences entrent dans l'histoire.",
+  "acc": [
+   "michel-rolph trouillot",
+   "michel rolph trouillot",
+   "trouillot"
+  ],
+  "m": "Michel-Rolph Trouillot. Selon lui, des silences entrent dans l'histoire lors de la fabrique des sources, des archives, des récits et de l'histoire, et ces choix reflètent des rapports de pouvoir.",
+  "k": [
+   "Trouillot",
+   "silences",
+   "pouvoir"
+  ]
+ },
+ {
+  "id": "F02-19",
+  "s": "s2",
+  "t": "courte",
+  "q": "Pourquoi dit-on que l'histoire est un construit qui n'est jamais neutre ?",
+  "acc": [],
+  "m": "Parce qu'elle est une quête de connaissance de l'humain, par l'humain : le contrat de vérité (dire vrai, prouver) entre en collision avec la subjectivité de l'historien, qui écrit toujours de quelque part. Ses interprétations changent donc avec le présent, comme le montre le cas de John A. Macdonald, même si le passé, lui, ne change pas.",
+  "k": [
+   "subjectivité",
+   "contrat de vérité",
+   "interprétation",
+   "Macdonald"
+  ]
+ }
+]

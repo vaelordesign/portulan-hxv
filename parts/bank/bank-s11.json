@@ -1,0 +1,344 @@
+[
+ {
+  "id": "F11-01",
+  "s": "s11",
+  "t": "qcm",
+  "q": "Système dans lequel des garçons sont réquisitionnés et réduits en esclavage par la Sublime Porte afin de servir dans l'administration ou l'armée.",
+  "o": [
+   "Le devchirmé",
+   "Le millet",
+   "Le divan",
+   "Le harem"
+  ],
+  "a": 0,
+  "w": "C'est l'exemple officiel du prof : le devchirmé, « la récolte ». Le millet est une communauté religieuse, le divan le conseil du sultan, le harem l'ensemble des épouses et concubines."
+ },
+ {
+  "id": "F11-02",
+  "s": "s11",
+  "t": "qcm",
+  "q": "Qui dirige le divan, le conseil du sultan ottoman ?",
+  "o": [
+   "Le grand vizir",
+   "La mère du sultan",
+   "Le chef des janissaires",
+   "Le patriarche orthodoxe"
+  ],
+  "a": 0,
+  "w": "Le divan est dirigé par le grand vizir, l'équivalent d'un premier ministre. Il s'occupe du budget, des affaires étrangères et des infrastructures."
+ },
+ {
+  "id": "F11-03",
+  "s": "s11",
+  "t": "qcm",
+  "q": "Dans l'Empire ottoman, qu'est-ce qu'un millet ?",
+  "o": [
+   "Un corps d'infanterie d'élite formé de garçons chrétiens",
+   "Une communauté religieuse qui garde certains privilèges et un pouvoir politique",
+   "Le conseil du sultan qui s'occupe du budget",
+   "Une province découpée selon sa démographie"
+  ],
+  "a": 1,
+  "w": "Chaque millet (musulmans, orthodoxes, Juifs, Arméniens, catholiques) garde ses chefs, ses lois et ses tribunaux pour ses affaires internes. L'infanterie d'élite, ce sont les janissaires."
+ },
+ {
+  "id": "F11-04",
+  "s": "s11",
+  "t": "qcm",
+  "q": "Selon Jane Burbank et Frederick Cooper, quelle est la caractéristique distinctive de l'Empire ottoman ?",
+  "o": [
+   "La diffusion d'une culture turque unique chez toutes les élites",
+   "La conversion forcée de tous ses peuples à l'islam",
+   "L'exploitation de la diversité au service de l'État",
+   "Le refus de tout héritage des empires précédents"
+  ],
+  "a": 2,
+  "w": "Pour Burbank et Cooper, les Ottomans ne cherchent pas à imposer une culture homogène : ils exploitent la diversité de leurs peuples au service de l'État."
+ },
+ {
+  "id": "F11-05",
+  "s": "s11",
+  "t": "qcm",
+  "q": "La transformation de Sainte-Sophie en mosquée, avec l'ajout de quatre minarets, illustre quel héritage de l'Empire ottoman ?",
+  "o": [
+   "Un héritage perse",
+   "Un héritage byzantin",
+   "Un héritage mongol",
+   "Un héritage chinois"
+  ],
+  "a": 1,
+  "w": "Sainte-Sophie (Hagia Sophia) était une cathédrale byzantine. Après la conquête de 1453, les Ottomans l'adaptent : les minarets marquent son changement de vocation."
+ },
+ {
+  "id": "F11-06",
+  "s": "s11",
+  "t": "qcm",
+  "q": "La céramique d'Iznik (vers 1530) imite la porcelaine bleu et blanc de Jingdezhen (1402-1424). Quelle connexion cela illustre-t-il ?",
+  "o": [
+   "Un échange culturel avec la Chine, par le commerce",
+   "Une conquête ottomane en Chine",
+   "Une diffusion biologique venue d'Asie",
+   "Un héritage de l'Empire byzantin"
+  ],
+  "a": 0,
+  "w": "Les artisans d'Iznik s'inspirent de la porcelaine chinoise arrivée par le commerce : c'est un échange culturel, une des dimensions de la mondialisation."
+ },
+ {
+  "id": "F11-07",
+  "s": "s11",
+  "t": "qcm",
+  "q": "D'après le corrigé du prof, de qui les Ottomans héritent-ils l'idée d'une autorité suprême de l'empereur ?",
+  "o": [
+   "Des empereurs byzantins",
+   "Des califes omeyyades",
+   "Des khans mongols",
+   "Des doges de Venise"
+  ],
+  "a": 2,
+  "w": "Le corrigé du prof : l'autorité suprême de l'empereur est un héritage des khans mongols. Les arts viennent des influences italiennes, perses et byzantines; la bureaucratie et le commerce, des Arabes."
+ },
+ {
+  "id": "F11-08",
+  "s": "s11",
+  "t": "qcm",
+  "q": "D'après le corrigé du prof, la bureaucratie détaillée et l'importance du commerce dans l'Empire ottoman viennent surtout :",
+  "o": [
+   "Des Mongols",
+   "Des Arabes",
+   "Des Italiens",
+   "Des Chinois"
+  ],
+  "a": 1,
+  "w": "Le corrigé attribue la bureaucratie détaillée et l'importance du commerce à l'héritage arabe."
+ },
+ {
+  "id": "F11-09",
+  "s": "s11",
+  "t": "qcm",
+  "q": "Que désigne l'expression « Sublime Porte » ?",
+  "o": [
+   "Le détroit du Bosphore, contrôlé par les Ottomans depuis 1453",
+   "La porte de Vienne assiégée en 1529",
+   "La porte du palais de Topkapı et, par extension, le gouvernement ottoman",
+   "L'entrée principale du Grand Bazar d'Istanbul"
+  ],
+  "a": 2,
+  "w": "La Sublime Porte est la porte monumentale du palais de Topkapı; par extension, le mot désigne le gouvernement ottoman. C'est elle qui réquisitionne les garçons du devchirmé."
+ },
+ {
+  "id": "F11-10",
+  "s": "s11",
+  "t": "qcm",
+  "q": "Quel rôle la mère d'un sultan peut-elle jouer, selon la définition du harem vue en classe ?",
+  "o": [
+   "Aucun : le harem est un lieu privé, sans influence sur l'État",
+   "Conseiller, participer aux décisions et gouverner si son fils est absent ou trop jeune",
+   "Commander les janissaires lors des sièges et des grandes campagnes",
+   "Diriger la communauté orthodoxe et nommer les chefs des autres millets"
+  ],
+  "a": 1,
+  "w": "La mère d'un prince ou du sultan et la favorite ont des rôles politiques importants : conseillères, décisions, régence, financement de projets (charité, arts, religion)."
+ },
+ {
+  "id": "F11-11",
+  "s": "s11",
+  "t": "qcm",
+  "q": "Qui écrit en 1517 que les Turcs ne convoitent plus seulement la Sicile et l'Italie, « mais le monde entier » ?",
+  "o": [
+   "Juan d'Autriche",
+   "Le pape Léon X",
+   "Ibn Khaldun",
+   "Isabelle de Castille"
+  ],
+  "a": 1,
+  "w": "Léon X, pape de 1513 à 1521, écrit cette lettre en 1517, l'année où les Ottomans prennent l'Égypte : c'est un témoignage de la peur des Turcs."
+ },
+ {
+  "id": "F11-12",
+  "s": "s11",
+  "t": "qcm",
+  "q": "Qui est le héros chrétien de la bataille de Lépante (1571) ?",
+  "o": [
+   "Soliman le Magnifique",
+   "Mehmet II",
+   "Juan d'Autriche",
+   "Ferdinand d'Aragon"
+  ],
+  "a": 2,
+  "w": "Juan d'Autriche mène la flotte de la Sainte Ligue (Espagne, Venise, papauté). Sa statue à Messine le montre le pied posé sur une tête de Turc."
+ },
+ {
+  "id": "F11-13",
+  "s": "s11",
+  "t": "qcm",
+  "q": "Lequel de ces arguments fait partie du corrigé officiel du prof sur la place centrale de l'Empire ottoman ?",
+  "o": [
+   "Il fonde des colonies-comptoirs en Amérique, comme les Portugais en Asie",
+   "Il contrôle directement la production des épices aux Moluques et à Ceylan",
+   "Il est au cœur des rivalités impériales, face aux chrétiens et aux Perses safavides",
+   "Il ouvre la route du cap de Bonne-Espérance avant les Portugais"
+  ],
+  "a": 2,
+  "w": "Les quatre arguments du corrigé : influencé par plusieurs empires; transculturel (millets); acteur majeur du commerce; au cœur des rivalités impériales (Espagnols, Vénitiens, Habsbourg, Perses safavides)."
+ },
+ {
+  "id": "F11-14",
+  "s": "s11",
+  "t": "vf",
+  "q": "Un garçon du devchirmé peut devenir général, vizir ou gouverneur tout en restant esclave du sultan.",
+  "a": true,
+  "w": "Vrai : c'est le paradoxe du devchirmé. Les meilleurs profitent de leur statut (richesse, propriétés, mariage), mais restent des esclaves du sultan."
+ },
+ {
+  "id": "F11-15",
+  "s": "s11",
+  "t": "vf",
+  "q": "Le harem n'a aucun rôle politique dans l'Empire ottoman : c'est un lieu uniquement privé.",
+  "a": false,
+  "w": "Faux : la mère du sultan et la favorite conseillent, participent aux décisions et peuvent gouverner quand le fils est absent ou trop jeune."
+ },
+ {
+  "id": "F11-16",
+  "s": "s11",
+  "t": "vf",
+  "q": "Dans le système des millets, chaque confession religieuse jouit de certains privilèges et d'un pouvoir politique.",
+  "a": true,
+  "w": "Vrai : c'est l'exemple que donne le corrigé du prof pour montrer que l'empire est transculturel."
+ },
+ {
+  "id": "F11-17",
+  "s": "s11",
+  "t": "vf",
+  "q": "Le divan est présidé par le sultan lui-même, qui y joue le rôle de premier ministre.",
+  "a": false,
+  "w": "Faux : le divan est dirigé par le grand vizir, l'équivalent du premier ministre."
+ },
+ {
+  "id": "F11-18",
+  "s": "s11",
+  "t": "vf",
+  "q": "La bureaucratie ottomane divise les provinces selon leur démographie et inventorie leurs ressources.",
+  "a": true,
+  "w": "Vrai : c'est la bureaucratie méticuleuse, avec des tribunaux et une gestion locale reliés à la capitale et une pléthore de fonctionnaires (juges, arpenteurs, notaires)."
+ },
+ {
+  "id": "F11-19",
+  "s": "s11",
+  "t": "vf",
+  "q": "À la bataille de Lépante (1571), la flotte ottomane écrase la Sainte Ligue chrétienne.",
+  "a": false,
+  "w": "Faux : c'est l'inverse. La Sainte Ligue, menée par Juan d'Autriche, bat la flotte ottomane, et cette victoire est célébrée comme un triomphe chrétien."
+ },
+ {
+  "id": "F11-20",
+  "s": "s11",
+  "t": "courte",
+  "q": "Système dans lequel des garçons sont réquisitionnés et réduits en esclavage par la Sublime Porte afin de servir dans l'administration et/ou l'armée.",
+  "acc": [
+   "devchirme",
+   "devshirme",
+   "devsirme",
+   "la recolte"
+  ],
+  "m": "Le devchirmé (« la récolte »). C'est l'exemple officiel du prof pour la partie 1 : les meilleurs deviennent vizirs, généraux ou gouverneurs, tout en restant esclaves du sultan.",
+  "k": [
+   "Sublime Porte",
+   "esclaves du sultan",
+   "administration et armée"
+  ]
+ },
+ {
+  "id": "F11-21",
+  "s": "s11",
+  "t": "courte",
+  "q": "Conseil du sultan, dirigé par le grand vizir, qui s'occupe du budget, des affaires étrangères et des infrastructures.",
+  "acc": [
+   "divan",
+   "le divan"
+  ],
+  "m": "Le divan. Le grand vizir, qui le dirige, est l'équivalent d'un premier ministre.",
+  "k": [
+   "grand vizir",
+   "conseil du sultan"
+  ]
+ },
+ {
+  "id": "F11-22",
+  "s": "s11",
+  "t": "courte",
+  "q": "Titre du premier ministre du sultan, qui dirige le divan.",
+  "acc": [
+   "grand vizir",
+   "vizir"
+  ],
+  "m": "Le grand vizir. Il dirige le divan, le conseil du sultan.",
+  "k": [
+   "divan",
+   "premier ministre"
+  ]
+ },
+ {
+  "id": "F11-23",
+  "s": "s11",
+  "t": "courte",
+  "q": "Communauté religieuse de l'Empire ottoman qui garde certains privilèges et un pouvoir politique (musulmans, orthodoxes, Juifs, Arméniens, catholiques).",
+  "acc": [
+   "millet",
+   "millets",
+   "systeme des millets"
+  ],
+  "m": "Le millet. Le système des millets montre que l'empire est transculturel : il exploite la diversité au service de l'État.",
+  "k": [
+   "confession religieuse",
+   "privilèges",
+   "transculturel"
+  ]
+ },
+ {
+  "id": "F11-24",
+  "s": "s11",
+  "t": "courte",
+  "q": "Épouses et concubines du sultan, parmi lesquelles la mère du sultan et la favorite jouent des rôles politiques importants.",
+  "acc": [
+   "harem",
+   "le harem"
+  ],
+  "m": "Le harem. La mère d'un prince ou du sultan et la favorite conseillent, participent aux décisions, peuvent gouverner quand le fils est absent ou trop jeune et financent des projets.",
+  "k": [
+   "mère du sultan",
+   "favorite",
+   "rôle politique"
+  ]
+ },
+ {
+  "id": "F11-25",
+  "s": "s11",
+  "t": "courte",
+  "q": "Nom de la porte monumentale du palais de Topkapı qui désigne, par extension, le gouvernement ottoman.",
+  "acc": [
+   "sublime porte",
+   "la porte"
+  ],
+  "m": "La Sublime Porte. C'est elle qui, dans la définition du devchirmé, réquisitionne les garçons.",
+  "k": [
+   "Topkapı",
+   "gouvernement ottoman"
+  ]
+ },
+ {
+  "id": "F11-26",
+  "s": "s11",
+  "t": "courte",
+  "q": "Bataille navale de 1571 où la Sainte Ligue chrétienne (Espagne, Venise, papauté) bat la flotte ottomane.",
+  "acc": [
+   "lepante",
+   "bataille de lepante"
+  ],
+  "m": "Lépante (1571). Le héros chrétien est Juan d'Autriche; la victoire montre à quel point la peur des Turcs était forte.",
+  "k": [
+   "1571",
+   "Juan d'Autriche",
+   "peur des Turcs"
+  ]
+ }
+]

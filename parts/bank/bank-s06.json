@@ -1,0 +1,263 @@
+[
+ {
+  "id": "F06-01",
+  "s": "s6",
+  "t": "qcm",
+  "q": "Longue série de conquêtes menées par les royaumes chrétiens de la péninsule Ibérique contre les États musulmans, du VIIIe siècle jusqu'à la prise de Grenade en 1492",
+  "o": [
+   "Conquista",
+   "Pax Mongolica",
+   "Reconquista",
+   "Féodalisme"
+  ],
+  "a": 2,
+  "w": "La Reconquista (« reconquête ») dure près de huit siècles et se termine avec la prise de Grenade en 1492. Ne pas la confondre avec la Conquista, qui prolonge cette expérience outre-mer."
+ },
+ {
+  "id": "F06-02",
+  "s": "s6",
+  "t": "qcm",
+  "q": "En 732, l'avancée musulmane est arrêtée en Gaule, dans le royaume des Francs. Où ?",
+  "o": [
+   "Covadonga",
+   "Grenade",
+   "Cordoue",
+   "Poitiers"
+  ],
+  "a": 3,
+  "w": "À Poitiers, en 732, l'avancée musulmane est stoppée en Gaule, dans le royaume des Francs. Cordoue et Grenade sont des villes d'al-Andalus."
+ },
+ {
+  "id": "F06-03",
+  "s": "s6",
+  "t": "qcm",
+  "q": "Vers 750, quel royaume chrétien du nord de la péninsule Ibérique sert de point de départ à la reconquête ?",
+  "o": [
+   "Le royaume de Grenade",
+   "Le royaume des Asturies",
+   "Le royaume de Castille",
+   "Le royaume wisigoth"
+  ],
+  "a": 1,
+  "w": "Le royaume chrétien des Asturies, au nord, est le point de départ de la reconquête. Grenade est le dernier royaume musulman, et le royaume wisigoth couvrait la péninsule avant l'invasion musulmane."
+ },
+ {
+  "id": "F06-04",
+  "s": "s6",
+  "t": "qcm",
+  "q": "Au Xe siècle, quel État marque l'apogée d'al-Andalus ?",
+  "o": [
+   "L'Empire almohade",
+   "Le royaume des Asturies",
+   "Le califat de Cordoue",
+   "Le royaume de Grenade"
+  ],
+  "a": 2,
+  "w": "Le califat de Cordoue (Cordoue, Séville, Grenade) est l'apogée d'al-Andalus au Xe siècle. L'Empire almohade est battu en 1212, et le royaume de Grenade est le dernier à tomber, en 1492."
+ },
+ {
+  "id": "F06-05",
+  "s": "s6",
+  "t": "qcm",
+  "q": "Quel lien le cours fait-il entre la fin de la Reconquista et Christophe Colomb ?",
+  "o": [
+   "La même année que la prise de Grenade, Isabelle accepte de financer son voyage",
+   "Colomb dirige l'armée chrétienne qui s'empare de Grenade en janvier 1492",
+   "Colomb explore pour le Portugal dès la prise de Ceuta, en 1415",
+   "Colomb est chargé de conduire les Juifs expulsés vers l'Empire ottoman"
+  ],
+  "a": 0,
+  "w": "La Reconquista se termine en 1492, l'année même du premier voyage de Colomb : Isabelle accepte de le financer et il part le 3 août 1492."
+ },
+ {
+  "id": "F06-06",
+  "s": "s6",
+  "t": "qcm",
+  "q": "En quelle année le Portugal termine-t-il sa propre reconquête, avec l'Algarve ?",
+  "o": [
+   "1212",
+   "1249",
+   "1415",
+   "1492"
+  ],
+  "a": 1,
+  "w": "Le Portugal finit dès 1249, au XIIIe siècle, bien avant la Castille (1492). En 1212, c'est la grande victoire chrétienne contre les Almohades; en 1415, la prise de Ceuta."
+ },
+ {
+  "id": "F06-07",
+  "s": "s6",
+  "t": "qcm",
+  "q": "Pourquoi peut-on parler d'un passage « de la Reconquista à la Conquista » ?",
+  "o": [
+   "La Conquista est le nom de la reconquête menée par le Portugal seul",
+   "Les nobles, comblés de terres, renoncent à toute nouvelle conquête",
+   "Une monarchie divisée et ruinée doit chercher de l'or en Asie",
+   "L'expérience de la conquête et l'esprit de croisade se transportent outre-mer"
+  ],
+  "a": 3,
+  "w": "La Reconquista laisse l'expérience de la conquête et du partage des terres, un esprit de croisade (combattre l'islam, convertir), des nobles en quête de nouvelles terres et une monarchie unifiée, riche et ambitieuse. Tout cela se transporte outre-mer."
+ },
+ {
+  "id": "F06-08",
+  "s": "s6",
+  "t": "qcm",
+  "q": "Que rappelle la Haggadah de Sarajevo, manuscrit juif présenté sur la diapo des conséquences de 1492 ?",
+  "o": [
+   "L'exil des Juifs d'Espagne jusque dans l'Empire ottoman",
+   "La prise de Grenade, dernier royaume musulman de la péninsule",
+   "L'art islamique de l'Alhambra et de la cour des Myrtes",
+   "Le financement du premier voyage de Christophe Colomb"
+  ],
+  "a": 0,
+  "w": "Ce manuscrit juif de la péninsule Ibérique a été emporté jusque dans les Balkans ottomans : il témoigne de l'exil des Juifs chassés d'Espagne en 1492."
+ },
+ {
+  "id": "F06-09",
+  "s": "s6",
+  "t": "qcm",
+  "q": "Que marque la prise de Grenade, le 2 janvier 1492 ?",
+  "o": [
+   "Le début de la conquête musulmane de toute la péninsule",
+   "La fin de la Reconquista et du pouvoir musulman en Europe de l'Ouest",
+   "L'apogée d'al-Andalus, alors dominé par le califat de Cordoue",
+   "La grande victoire chrétienne contre l'Empire almohade"
+  ],
+  "a": 1,
+  "w": "Grenade, seul royaume musulman restant depuis 1300 environ, tombe le 2 janvier 1492 : c'est la fin de la Reconquista et de tout pouvoir musulman en Europe de l'Ouest."
+ },
+ {
+  "id": "F06-10",
+  "s": "s6",
+  "t": "vf",
+  "q": "Les rois récompensent les nobles qui combattent en leur donnant les terres conquises : la Reconquista suit la logique féodale.",
+  "a": true,
+  "w": "Vrai. La pyramide féodale réapparaît : la Reconquista est portée par la logique féodale (terres, gloire, foi)."
+ },
+ {
+  "id": "F06-11",
+  "s": "s6",
+  "t": "vf",
+  "q": "Le décret de l'Alhambra est signé le 2 janvier 1492, le jour même de la prise de Grenade.",
+  "a": false,
+  "w": "Faux. Le décret de l'Alhambra date du 31 mars 1492, près de trois mois après la prise de Grenade (2 janvier 1492)."
+ },
+ {
+  "id": "F06-12",
+  "s": "s6",
+  "t": "vf",
+  "q": "Le Portugal commence à explorer après l'Espagne, car il termine sa reconquête plus tard que la Castille.",
+  "a": false,
+  "w": "Faux. C'est l'inverse : le Portugal a fini sa reconquête dès le XIIIe siècle, une des raisons pour lesquelles il explore bien avant l'Espagne (prise de Ceuta en 1415). La Castille ne termine qu'en 1492."
+ },
+ {
+  "id": "F06-13",
+  "s": "s6",
+  "t": "vf",
+  "q": "Les cartes d'al-Andalus de 790, 900, 1150 et 1300 montrent un territoire musulman qui recule vers le sud.",
+  "a": true,
+  "w": "Vrai. Vers 1300, il ne reste que le royaume musulman de Grenade, face au Portugal, à la Castille (avec León), à la Navarre et à l'Aragon (avec la Catalogne)."
+ },
+ {
+  "id": "F06-14",
+  "s": "s6",
+  "t": "vf",
+  "q": "L'Alhambra de Grenade et la cathédrale gothique de Burgos montrent deux civilisations sur la même péninsule.",
+  "a": true,
+  "w": "Vrai. L'Alhambra illustre l'art islamique (stucs, calligraphie, cour des Myrtes), et la cathédrale gothique de Burgos est érigée à partir de 1221."
+ },
+ {
+  "id": "F06-15",
+  "s": "s6",
+  "t": "courte",
+  "q": "Nom donné aux territoires musulmans de la péninsule Ibérique, que les royaumes chrétiens reprennent pendant près de huit siècles",
+  "acc": [
+   "al-Andalus",
+   "al Andalus",
+   "Andalus",
+   "al-Andalous"
+  ],
+  "m": "Al-Andalus désigne les territoires musulmans de la péninsule Ibérique. Il atteint son apogée avec le califat de Cordoue au Xe siècle, puis recule vers le sud jusqu'à la prise de Grenade en 1492.",
+  "k": [
+   "al-Andalus",
+   "territoires musulmans",
+   "péninsule Ibérique"
+  ]
+ },
+ {
+  "id": "F06-16",
+  "s": "s6",
+  "t": "courte",
+  "q": "Surnom donné à Isabelle de Castille et Ferdinand d'Aragon, mariés en 1469, dont l'union des couronnes donne naissance à l'Espagne",
+  "acc": [
+   "Rois catholiques",
+   "Roi catholique"
+  ],
+  "m": "Les Rois catholiques, Isabelle de Castille et Ferdinand d'Aragon, unissent leurs couronnes : c'est la naissance de l'Espagne. Ils prennent Grenade le 2 janvier 1492, ce qui met fin à la Reconquista.",
+  "k": [
+   "Rois catholiques",
+   "Isabelle de Castille",
+   "Ferdinand d'Aragon",
+   "1469",
+   "Espagne"
+  ]
+ },
+ {
+  "id": "F06-17",
+  "s": "s6",
+  "t": "courte",
+  "q": "Décret de 1492 qui oblige les Juifs d'Espagne à se convertir au christianisme ou à quitter le pays",
+  "acc": [
+   "décret de l'Alhambra",
+   "édit de l'Alhambra",
+   "décret d'Alhambra",
+   "Alhambra"
+  ],
+  "m": "Le décret de l'Alhambra, du 31 mars 1492, oblige les Juifs à se convertir au christianisme ou à quitter l'Espagne. Il entraîne l'exil des Juifs séfarades vers le Portugal, l'Afrique du Nord, l'Italie et l'Empire ottoman.",
+  "k": [
+   "décret de l'Alhambra",
+   "31 mars 1492",
+   "Juifs",
+   "se convertir",
+   "quitter l'Espagne"
+  ]
+ },
+ {
+  "id": "F06-18",
+  "s": "s6",
+  "t": "courte",
+  "q": "Grande victoire chrétienne remportée en 1212 contre l'Empire almohade",
+  "acc": [
+   "Las Navas de Tolosa",
+   "Navas de Tolosa",
+   "Las Navas",
+   "bataille de Las Navas"
+  ],
+  "m": "La bataille de Las Navas de Tolosa (1212) est une grande victoire chrétienne contre l'Empire almohade. Vers 1300, il ne reste plus que le royaume musulman de Grenade.",
+  "k": [
+   "Las Navas de Tolosa",
+   "1212",
+   "Empire almohade",
+   "victoire chrétienne"
+  ]
+ },
+ {
+  "id": "F06-19",
+  "s": "s6",
+  "t": "courte",
+  "q": "Nom donné aux Juifs chassés d'Espagne en 1492, qui s'exilent vers le Portugal, l'Afrique du Nord, l'Italie et l'Empire ottoman",
+  "acc": [
+   "séfarades",
+   "Juifs séfarades",
+   "séfarade",
+   "sépharades"
+  ],
+  "m": "Les Juifs séfarades doivent quitter l'Espagne après le décret de l'Alhambra (31 mars 1492) s'ils refusent de se convertir. La Haggadah de Sarajevo, emportée jusque dans les Balkans ottomans, témoigne de cet exil.",
+  "k": [
+   "séfarades",
+   "Juifs",
+   "exil",
+   "décret de l'Alhambra",
+   "Empire ottoman"
+  ]
+ }
+]

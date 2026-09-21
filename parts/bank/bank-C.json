@@ -1,0 +1,1452 @@
+[
+ {
+  "id": "C001",
+  "s": "s12",
+  "t": "qcm",
+  "q": "Au milieu du XVe siècle, les Génois perdent leurs comptoirs d'Orient, comme Caffa, avalés par l'Empire ottoman. À quelle cause des grandes explorations ce fait se rattache-t-il ?",
+  "o": [
+   "L'appât des richesses",
+   "La poussée ottomane",
+   "L'esprit de croisade",
+   "Les techniques et les savoirs"
+  ],
+  "a": 1,
+  "w": "C'est la poussée ottomane : après 1453, les Ottomans contrôlent la mer Noire et l'est de la Méditerranée, et il faut trouver une autre route vers l'Asie. Sur la diapo, Mehmet II illustre cette cause."
+ },
+ {
+  "id": "C002",
+  "s": "s12",
+  "t": "qcm",
+  "q": "Selon le cours, pourquoi les épices et l'or coûtent-ils si cher en Europe au XVe siècle ?",
+  "o": [
+   "Parce que les Ottomans en interdisent la vente aux chrétiens",
+   "Parce que les Génois en contrôlent toute la production",
+   "Parce qu'ils passent par de nombreux intermédiaires avant d'arriver en Europe",
+   "Parce que les Portugais en détiennent déjà le monopole"
+  ],
+  "a": 2,
+  "w": "Chaque intermédiaire prend sa part, ce qui fait grimper le prix du poivre, du girofle, de la muscade et de l'or. Y accéder directement promet d'énormes profits : c'est l'appât des richesses."
+ },
+ {
+  "id": "C003",
+  "s": "s12",
+  "t": "qcm",
+  "q": "L'astrolabe de Tolède, exemple des savoirs utilisés par les navigateurs, porte des inscriptions en trois langues. Lesquelles ?",
+  "o": [
+   "Grec, arabe et latin",
+   "Hébreu, grec et castillan",
+   "Arabe, persan et latin",
+   "Hébreu, arabe et latin"
+  ],
+  "a": 3,
+  "w": "Ses inscriptions en hébreu, en arabe et en latin montrent que les techniques de navigation sont souvent empruntées à d'autres cultures, en particulier au monde musulman."
+ },
+ {
+  "id": "C004",
+  "s": "s12",
+  "t": "qcm",
+  "q": "Quelle conquête portugaise de 1415, représentée sur un azulejo de la gare de Porto, marque le point de départ de l'expansion portugaise ?",
+  "o": [
+   "La prise de Ceuta",
+   "La prise de Goa",
+   "La fondation du fort d'Elmina",
+   "La fondation du comptoir d'Arguin"
+  ],
+  "a": 0,
+  "w": "La prise de Ceuta, en Afrique du Nord (1415), lance l'expansion et illustre aussi l'esprit de croisade. Arguin (1448), Elmina (1482) et Goa (1510) viennent plus tard."
+ },
+ {
+  "id": "C005",
+  "s": "s12",
+  "t": "qcm",
+  "q": "En 1434, les navigateurs portugais franchissent un cap qui marquait jusque-là la limite connue le long de l'Afrique. Lequel ?",
+  "o": [
+   "Le cap de Bonne-Espérance",
+   "Le cap Bojador",
+   "Le cap Blanc",
+   "Le Cap-Vert"
+  ],
+  "a": 1,
+  "w": "Le cap Bojador est franchi en 1434 : on dépasse la limite connue. Le cap de Bonne-Espérance ne sera atteint par Dias qu'en 1488."
+ },
+ {
+  "id": "C006",
+  "s": "s12",
+  "t": "qcm",
+  "q": "En 1482, les Portugais bâtissent un fort sur la Côte de l'Or, dans l'actuel Ghana. Lequel ?",
+  "o": [
+   "Arguin",
+   "Ceuta",
+   "Elmina",
+   "Malindi"
+  ],
+  "a": 2,
+  "w": "Le fort São Jorge da Mina (Elmina) est fondé en 1482, l'année où les Portugais entrent aussi en contact avec le royaume du Kongo. Arguin (1448) est le premier comptoir, et Ceuta une conquête de 1415."
+ },
+ {
+  "id": "C007",
+  "s": "s12",
+  "t": "qcm",
+  "q": "Lors de la bataille de Toro (1476), quel souverain conteste le trône d'Isabelle de Castille ?",
+  "o": [
+   "Ferdinand d'Aragon",
+   "Manuel Ier de Portugal",
+   "Henri le Navigateur",
+   "Alphonse V de Portugal"
+  ],
+  "a": 3,
+  "w": "Alphonse V de Portugal conteste le trône d'Isabelle pendant une guerre de succession. Ferdinand d'Aragon règne au contraire aux côtés d'Isabelle."
+ },
+ {
+  "id": "C008",
+  "s": "s12",
+  "t": "qcm",
+  "q": "Selon le traité de 1479 qui met fin au conflit entre le Portugal et la Castille, quelles îles reviennent à l'Espagne ?",
+  "o": [
+   "Les Canaries",
+   "Les Açores",
+   "Madère",
+   "Les îles du Cap-Vert"
+  ],
+  "a": 0,
+  "w": "L'Espagne ne garde que les Canaries; le Portugal obtient les Açores, Madère, le Cap-Vert, la Côte de l'Or (Elmina) et le royaume de Fès. Bloquée au sud, l'Espagne n'a plus que la voie de l'ouest."
+ },
+ {
+  "id": "C009",
+  "s": "s12",
+  "t": "qcm",
+  "q": "Quand les savants de l'université de Salamanque examinent le projet de Colomb, sur quoi porte réellement leur désaccord avec lui ?",
+  "o": [
+   "Sur la forme de la Terre, que les savants croient plate",
+   "Sur l'existence d'un continent entre l'Europe et l'Asie",
+   "Sur le droit du pape de partager le monde",
+   "Sur la taille de la Terre : Colomb sous-estime la distance jusqu'à l'Asie"
+  ],
+  "a": 3,
+  "w": "La Terre plate est un mythe : les savants la savent ronde. Le débat porte sur sa taille; les savants avaient raison, et Colomb a eu la chance qu'un continent se trouve sur sa route."
+ },
+ {
+  "id": "C010",
+  "s": "s12",
+  "t": "vf",
+  "q": "Au Moyen Âge, les savants européens croient que la Terre est plate, et c'est pour cette raison qu'ils doutent du projet de Colomb.",
+  "a": false,
+  "w": "Faux : c'est un mythe. Des encyclopédies du XIIIe siècle (De proprietatibus rerum, L'Image du monde) représentent la Terre en sphère; le débat porte sur sa taille, que Colomb sous-estime."
+ },
+ {
+  "id": "C011",
+  "s": "s12",
+  "t": "vf",
+  "q": "La voile latine (triangulaire), qui aide à naviguer en haute mer, a été empruntée aux navires arabes.",
+  "a": true,
+  "w": "Vrai : elle fait partie des techniques et des savoirs, souvent venus du monde musulman et de l'Asie, qui rendent possible la navigation en haute mer."
+ },
+ {
+  "id": "C012",
+  "s": "s12",
+  "t": "vf",
+  "q": "En 1488, Vasco de Gama atteint le cap de Bonne-Espérance et ouvre la route de l'océan Indien.",
+  "a": false,
+  "w": "Faux : c'est Bartolomeu Dias qui atteint le cap de Bonne-Espérance en 1488. Vasco de Gama le franchit ensuite pour atteindre Calicut en 1498."
+ },
+ {
+  "id": "C013",
+  "s": "s12",
+  "t": "vf",
+  "q": "Au contact des Portugais, le roi du Kongo se convertit au christianisme, comme le rappelle la gravure « Jean, roi de Congo ».",
+  "a": true,
+  "w": "Vrai : les Portugais entrent en contact avec le royaume du Kongo vers 1482, et son roi se convertit (il est baptisé en 1491, selon le complément)."
+ },
+ {
+  "id": "C014",
+  "s": "s12",
+  "t": "vf",
+  "q": "Isabelle de Castille accepte de financer le projet de Colomb en 1479, au lendemain de la bataille de Toro.",
+  "a": false,
+  "w": "Faux : Isabelle accepte de financer Colomb en 1492, après la prise de Grenade. L'année 1479 est celle du traité qui bloque l'Espagne au sud."
+ },
+ {
+  "id": "C015",
+  "s": "s12",
+  "t": "courte",
+  "q": "Poste permanent d'échange souvent implanté par la force par un État qui vise à contrôler l'approvisionnement et le commerce de produits d'un territoire visé.",
+  "acc": [
+   "colonie-comptoir",
+   "colonie comptoir",
+   "comptoir",
+   "colonies-comptoirs"
+  ],
+  "m": "La colonie-comptoir (définition du prof). Les Portugais en fondent le long de l'Afrique (Arguin en 1448, le premier, puis Elmina en 1482) et en Asie (Goa, Malacca, Ormuz, Macao).",
+  "k": [
+   "colonie-comptoir",
+   "commerce",
+   "force",
+   "Arguin"
+  ]
+ },
+ {
+  "id": "C016",
+  "s": "s12",
+  "t": "courte",
+  "q": "Prince portugais qui finance les expéditions le long des côtes africaines au XVe siècle.",
+  "acc": [
+   "Henri le Navigateur",
+   "Henri",
+   "infant Henri",
+   "prince Henri"
+  ],
+  "m": "Henri le Navigateur. Il soutient le projet portugais de contourner l'Afrique pour atteindre l'Asie, une expansion lancée par la prise de Ceuta en 1415.",
+  "k": [
+   "Henri le Navigateur",
+   "Portugal",
+   "côtes africaines"
+  ]
+ },
+ {
+  "id": "C017",
+  "s": "s12",
+  "t": "courte",
+  "q": "Mouvement par lequel les royaumes chrétiens reprennent la péninsule Ibérique aux musulmans, et qui nourrit l'esprit de croisade des explorateurs : combattre l'islam et convertir de nouveaux peuples.",
+  "acc": [
+   "Reconquista",
+   "Reconquête"
+  ],
+  "m": "La Reconquista. Elle pousse Portugais et Espagnols à combattre l'islam et à convertir, comme le montrent la prise de Ceuta (1415) et la lettre d'Albuquerque (1510).",
+  "k": [
+   "Reconquista",
+   "esprit de croisade",
+   "islam",
+   "conversion"
+  ]
+ },
+ {
+  "id": "C018",
+  "s": "s12",
+  "t": "courte",
+  "q": "Pourquoi l'Espagne cherche-t-elle à atteindre l'Asie par l'ouest plutôt qu'en longeant l'Afrique ?",
+  "acc": [],
+  "m": "Parce que, vaincue dans la guerre marquée par la bataille de Toro (1476), elle doit accepter le traité de 1479 qui laisse au Portugal les îles et les établissements africains (Açores, Madère, Cap-Vert, Côte de l'Or, Fès). Ne gardant que les Canaries, elle ne peut pas descendre le long de l'Afrique : il ne lui reste que l'ouest, d'où le projet de Colomb.",
+  "k": [
+   "traité de 1479",
+   "Portugal",
+   "Canaries",
+   "ouest"
+  ]
+ },
+ {
+  "id": "C019",
+  "s": "s12",
+  "t": "courte",
+  "q": "Nommez les quatre causes (ou incitatifs) des grandes explorations vues en classe.",
+  "acc": [],
+  "m": "La poussée ottomane (après 1453, il faut une autre route vers l'Asie), l'appât des richesses (épices et or), l'esprit de croisade (combattre l'islam et convertir) et les techniques et les savoirs (voile latine, caravelle, astrolabe).",
+  "k": [
+   "poussée ottomane",
+   "richesses",
+   "croisade",
+   "techniques"
+  ]
+ },
+ {
+  "id": "C020",
+  "s": "s13",
+  "t": "qcm",
+  "q": "Comment le traité de Tordesillas (1494) partage-t-il les terres hors d'Europe entre l'Espagne et le Portugal ?",
+  "o": [
+   "Selon une ligne est-ouest qui suit l'équateur",
+   "Par continent : l'Afrique au Portugal, l'Asie à l'Espagne",
+   "Selon une ligne qui passe par le cap de Bonne-Espérance",
+   "Selon une ligne nord-sud tracée dans l'Atlantique"
+  ],
+  "a": 3,
+  "w": "Une ligne nord-sud est tracée dans l'Atlantique : à l'ouest, la zone espagnole (les Amériques); à l'est, la zone portugaise (l'Afrique, l'Asie et le Brésil)."
+ },
+ {
+  "id": "C021",
+  "s": "s13",
+  "t": "qcm",
+  "q": "Selon le partage de Tordesillas, laquelle de ces terres se trouve dans la zone portugaise ?",
+  "o": [
+   "Le Mexique",
+   "Le Brésil",
+   "Les Antilles",
+   "Le Pérou"
+  ],
+  "a": 1,
+  "w": "Le Brésil, à l'extrémité est de l'Amérique du Sud, se trouve à l'est de la ligne. Le reste des Amériques (Antilles, Mexique, Pérou) est dans la zone espagnole."
+ },
+ {
+  "id": "C022",
+  "s": "s13",
+  "t": "qcm",
+  "q": "Quel navigateur atteint Terre-Neuve en 1497 pour le compte de l'Angleterre ?",
+  "o": [
+   "Jacques Cartier",
+   "Amerigo Vespucci",
+   "Jean Cabot",
+   "Pedro Álvares Cabral"
+  ],
+  "a": 2,
+  "w": "Jean Cabot atteint Terre-Neuve en 1497 pour l'Angleterre. Jacques Cartier, lui, explore le Saint-Laurent pour la France (1534-1541)."
+ },
+ {
+  "id": "C023",
+  "s": "s13",
+  "t": "qcm",
+  "q": "Qui réalise le premier tour du monde, entre 1519 et 1522, pour le compte de l'Espagne ?",
+  "o": [
+   "Magellan, puis Elcano",
+   "Vasco de Gama",
+   "Christophe Colomb",
+   "Bartolomeu Dias"
+  ],
+  "a": 0,
+  "w": "L'expédition de Magellan, achevée par Elcano, fait le premier tour du monde (1519-1522). Gama et Dias naviguent pour le Portugal, et Colomb explore les Antilles et les côtes de l'Amérique."
+ },
+ {
+  "id": "C024",
+  "s": "s13",
+  "t": "qcm",
+  "q": "Quel navigateur explore le Saint-Laurent pour la France entre 1534 et 1541 ?",
+  "o": [
+   "Jean Cabot",
+   "Magellan",
+   "Amerigo Vespucci",
+   "Jacques Cartier"
+  ],
+  "a": 3,
+  "w": "Jacques Cartier explore le Saint-Laurent pour la France (1534-1541). Jean Cabot navigue pour l'Angleterre, Magellan et Vespucci pour l'Espagne."
+ },
+ {
+  "id": "C025",
+  "s": "s13",
+  "t": "qcm",
+  "q": "Voyageur marocain qui, entre 1325 et 1354, parcourt tout le monde musulman, l'Inde, la Chine et le Mali.",
+  "o": [
+   "Marco Polo",
+   "Ibn Khaldun",
+   "Ibn Battuta",
+   "Zheng He"
+  ],
+  "a": 2,
+  "w": "Ibn Battuta est le grand voyageur marocain du XIVe siècle. Ibn Khaldun est l'auteur de la Muqaddima (1377), et Marco Polo un marchand vénitien."
+ },
+ {
+  "id": "C026",
+  "s": "s13",
+  "t": "qcm",
+  "q": "Amiral chinois qui mène sept expéditions maritimes, entre 1405 et 1433, jusqu'en Arabie et en Afrique de l'Est.",
+  "o": [
+   "Zheng He",
+   "Yongle",
+   "Kubilai Khan",
+   "Hongwu"
+  ],
+  "a": 0,
+  "w": "Zheng He dirige les sept expéditions, bien avant l'arrivée des Portugais dans l'océan Indien. Yongle est l'empereur Ming qui règne de 1402 à 1424, et Hongwu le fondateur de la dynastie Ming."
+ },
+ {
+  "id": "C027",
+  "s": "s13",
+  "t": "qcm",
+  "q": "Quel peuple, parti de Taïwan, peuple peu à peu les îles du Pacifique jusqu'à Hawaï, l'île de Pâques et la Nouvelle-Zélande, à bord de pirogues doubles ?",
+  "o": [
+   "Les Vikings",
+   "Les Polynésiens",
+   "Les Taïnos",
+   "Les Mapuches"
+  ],
+  "a": 1,
+  "w": "Les Polynésiens explorent le Pacifique d'avant 3000 av. J.-C. jusque vers 1200 (Hawaï vers 900, la Nouvelle-Zélande vers 1200). Les Taïnos vivent à Hispaniola et les Mapuches au Chili."
+ },
+ {
+  "id": "C028",
+  "s": "s13",
+  "t": "qcm",
+  "q": "Marchand vénitien qui voyage jusqu'à la Chine de Kubilai Khan (1271-1295) et revient par la mer en passant par Ormuz.",
+  "o": [
+   "Ibn Battuta",
+   "Christophe Colomb",
+   "Jean Cabot",
+   "Marco Polo"
+  ],
+  "a": 3,
+  "w": "Marco Polo visite Karakorum, Cambaluc (Pékin) et Hangzhou, puis rentre par la mer via Ormuz. Colomb est génois et Ibn Battuta marocain."
+ },
+ {
+  "id": "C029",
+  "s": "s13",
+  "t": "vf",
+  "q": "En 1500, Pedro Álvares Cabral atteint le Brésil pour le compte de l'Espagne.",
+  "a": false,
+  "w": "Faux : Cabral navigue pour le Portugal. Le Brésil se trouve d'ailleurs à l'est de la ligne de Tordesillas, dans la zone portugaise."
+ },
+ {
+  "id": "C030",
+  "s": "s13",
+  "t": "vf",
+  "q": "Vers l'an 1000, les Vikings atteignent l'Amérique du Nord, comme en témoigne le site de L'Anse aux Meadows, à Terre-Neuve.",
+  "a": true,
+  "w": "Vrai : entre 800 et 1050, les Vikings explorent l'Islande, le Groenland et l'Amérique du Nord, près de cinq siècles avant Colomb et Cabot."
+ },
+ {
+  "id": "C031",
+  "s": "s13",
+  "t": "vf",
+  "q": "Selon le traité de Tordesillas, les Amériques sont dans la zone espagnole, sauf l'extrémité est de l'Amérique du Sud.",
+  "a": true,
+  "w": "Vrai : à l'ouest de la ligne, la zone espagnole couvre les Antilles, le Mexique et le Pérou. L'extrémité est de l'Amérique du Sud, le Brésil, revient au Portugal."
+ },
+ {
+  "id": "C032",
+  "s": "s13",
+  "t": "vf",
+  "q": "Selon le prof, les Européens des XVe et XVIe siècles sont les premiers à franchir de très grandes distances par la mer.",
+  "a": false,
+  "w": "Faux : c'est pourquoi le prof met « grandes » entre guillemets. Les Polynésiens, les Vikings et Zheng He, notamment, avaient déjà franchi d'immenses distances."
+ },
+ {
+  "id": "C033",
+  "s": "s13",
+  "t": "vf",
+  "q": "La France et l'Angleterre ne reconnaissent pas le partage de Tordesillas et envoient leurs propres navigateurs.",
+  "a": true,
+  "w": "Vrai (complément) : Jean Cabot explore Terre-Neuve pour l'Angleterre (1497) et Jacques Cartier le Saint-Laurent pour la France (1534-1541)."
+ },
+ {
+  "id": "C034",
+  "s": "s13",
+  "t": "courte",
+  "q": "Traité de 1494 par lequel l'Espagne et le Portugal se partagent les terres hors d'Europe de part et d'autre d'une ligne nord-sud.",
+  "acc": [
+   "Tordesillas",
+   "traité de Tordesillas"
+  ],
+  "m": "Le traité de Tordesillas (1494). À l'ouest de la ligne, la zone espagnole (les Amériques); à l'est, la zone portugaise (l'Afrique, l'Asie et le Brésil).",
+  "k": [
+   "Tordesillas",
+   "1494",
+   "ligne nord-sud"
+  ]
+ },
+ {
+  "id": "C035",
+  "s": "s13",
+  "t": "courte",
+  "q": "Qualificatif employé pour critiquer l'expression « grandes découvertes », parce qu'elle ne retient que le point de vue des Européens, alors que les terres « découvertes » étaient déjà habitées.",
+  "acc": [
+   "eurocentrique",
+   "eurocentrisme",
+   "eurocentré",
+   "européocentrique"
+  ],
+  "m": "Eurocentrique. Les terres « découvertes » étaient habitées et connues de leurs peuples, et d'autres (Polynésiens, Vikings, Zheng He) avaient exploré avant les Européens.",
+  "k": [
+   "eurocentrique",
+   "point de vue",
+   "terres habitées"
+  ]
+ },
+ {
+  "id": "C036",
+  "s": "s13",
+  "t": "courte",
+  "q": "Navigateur au service de l'Espagne qui explore les côtes de l'Amérique du Sud en 1499.",
+  "acc": [
+   "Amerigo Vespucci",
+   "Vespucci",
+   "Améric Vespuce",
+   "Amerigo"
+  ],
+  "m": "Amerigo Vespucci. Il longe les côtes de l'Amérique du Sud en 1499 pour l'Espagne; le continent américain portera son nom.",
+  "k": [
+   "Vespucci",
+   "1499",
+   "Amérique du Sud",
+   "Espagne"
+  ]
+ },
+ {
+  "id": "C037",
+  "s": "s13",
+  "t": "courte",
+  "q": "Donnez deux exemples de peuples ou de voyageurs qui ont exploré d'immenses distances avant les Européens des XVe et XVIe siècles.",
+  "acc": [],
+  "m": "Par exemple : les Polynésiens (le Pacifique jusqu'à Hawaï et la Nouvelle-Zélande), les Vikings (l'Amérique du Nord vers l'an 1000), Marco Polo (la Chine, 1271-1295), Ibn Battuta (le monde musulman, l'Inde, la Chine et le Mali, 1325-1354) ou Zheng He (jusqu'en Afrique de l'Est, 1405-1433).",
+  "k": [
+   "Polynésiens",
+   "Vikings",
+   "Ibn Battuta",
+   "Zheng He"
+  ]
+ },
+ {
+  "id": "C038",
+  "s": "s13",
+  "t": "courte",
+  "q": "Selon le cours, qu'est-ce qui est vraiment nouveau avec les explorations européennes, puisque d'autres peuples avaient exploré avant eux ?",
+  "acc": [],
+  "m": "Les Européens relient durablement tous les continents, et leurs explorations mènent à la conquête et à la colonisation. C'est le début de la première mondialisation.",
+  "k": [
+   "relier les continents",
+   "conquête",
+   "colonisation",
+   "première mondialisation"
+  ]
+ },
+ {
+  "id": "C039",
+  "s": "s14",
+  "t": "qcm",
+  "q": "Quel titre porte le souverain de la ville indienne où Vasco de Gama arrive en 1498 ?",
+  "o": [
+   "Le Zamorin",
+   "Le sultan",
+   "Le Grand Khan",
+   "Le calife"
+  ],
+  "a": 0,
+  "w": "À Calicut, sur la côte de Malabar, Gama rencontre le Zamorin, souverain de la ville. Les Portugais s'insèrent dans un commerce qui existait bien avant eux."
+ },
+ {
+  "id": "C040",
+  "s": "s14",
+  "t": "qcm",
+  "q": "Après avoir franchi le cap de Bonne-Espérance, par quelles escales de la côte africaine passe Vasco de Gama avant de traverser l'océan Indien ?",
+  "o": [
+   "Arguin, Elmina et le Kongo",
+   "Mozambique, Mombasa et Malindi",
+   "Ceuta, Tanger et Arzila",
+   "Madère, les Açores et les Canaries"
+  ],
+  "a": 1,
+  "w": "Le trajet de Gama (en bleu sur la carte) : Lisbonne, Cap-Vert, cap de Bonne-Espérance, Mozambique, Mombasa, Malindi, puis la traversée jusqu'à Calicut. Les autres lieux se trouvent bien avant le cap, au Maroc, dans les îles de l'Atlantique ou sur la côte atlantique de l'Afrique."
+ },
+ {
+  "id": "C041",
+  "s": "s14",
+  "t": "qcm",
+  "q": "En 1500, en s'écartant vers l'ouest pour contourner l'Afrique, quel navigateur touche le Brésil (Porto Seguro) avant de gagner Calicut ?",
+  "o": [
+   "Vasco de Gama",
+   "Amerigo Vespucci",
+   "Bartolomeu Dias",
+   "Pedro Álvares Cabral"
+  ],
+  "a": 3,
+  "w": "C'est Cabral (en rouge sur la carte). Comme le Brésil se trouve dans la zone portugaise de Tordesillas, il revient au Portugal."
+ },
+ {
+  "id": "C042",
+  "s": "s14",
+  "t": "qcm",
+  "q": "Quelle série correspond aux « points de passage » de l'océan Indien pris par les Portugais entre 1510 et 1515 ?",
+  "o": [
+   "Calicut, Mombasa et Malindi",
+   "Arguin, Elmina et Ceuta",
+   "Goa, Malacca et Ormuz",
+   "Caffa, Gallipoli et Constantinople"
+  ],
+  "a": 2,
+  "w": "Albuquerque prend Goa (1510), Malacca (1511) et Ormuz (1515), des ports qui commandent les routes maritimes de l'océan Indien. Les Portugais s'installeront plus tard à Macao (1557)."
+ },
+ {
+  "id": "C043",
+  "s": "s14",
+  "t": "qcm",
+  "q": "À qui Albuquerque adresse-t-il sa lettre de 1510, écrite après la prise de Goa ?",
+  "o": [
+   "Au roi Alphonse V",
+   "Au roi Manuel Ier",
+   "À Isabelle de Castille",
+   "Au pape Alexandre VI"
+  ],
+  "a": 1,
+  "w": "Il écrit au roi Manuel Ier de Portugal. Comme le conquérant écrit à son propre roi, il a intérêt à se montrer efficace et bon chrétien : il peut exagérer."
+ },
+ {
+  "id": "C044",
+  "s": "s14",
+  "t": "qcm",
+  "q": "Dans sa lettre de 1510, Albuquerque dit avoir épargné les paysans hindous et les brahmanes. Que révèle ce choix ?",
+  "o": [
+   "Une stratégie : s'allier aux hindous contre les marchands musulmans, rivaux commerciaux des Portugais",
+   "Une conversion : les hindous de Goa étaient déjà devenus chrétiens avant l'arrivée des Portugais",
+   "Une obligation : le traité de Tordesillas plaçait les hindous sous la protection du roi",
+   "Une faiblesse : les Portugais n'avaient plus assez de soldats pour combattre tout le monde"
+  ],
+  "a": 0,
+  "w": "Épargner les hindous permet de s'en faire des alliés contre les marchands musulmans, principaux rivaux commerciaux. La violence vise les musulmans, dans le prolongement de l'esprit de croisade."
+ },
+ {
+  "id": "C045",
+  "s": "s14",
+  "t": "qcm",
+  "q": "Selon la diapo de la séance 7, les Portugais sont « au cœur du système, mais pas en amont ». Que signifie « pas en amont » ?",
+  "o": [
+   "Ils ne contrôlent pas les routes maritimes entre les ports asiatiques",
+   "Ils ne contrôlent pas la production des épices, de la soie et de la porcelaine",
+   "Ils ne possèdent aucun port fortifié en Asie",
+   "Ils n'ont pas le droit de commercer avec le Japon"
+  ],
+  "a": 1,
+  "w": "En amont, c'est la production : elle reste entre les mains des producteurs et des marchands asiatiques. « Au cœur », en revanche, les Portugais tiennent les ports clés et les routes maritimes, et font payer les navires qui passent."
+ },
+ {
+  "id": "C046",
+  "s": "s14",
+  "t": "qcm",
+  "q": "Le vindaloo de Goa, plat de cari montré sur la diapo, mêle la cuisine portugaise et la cuisine indienne. Qu'illustre-t-il ?",
+  "o": [
+   "La violence de l'implantation portugaise",
+   "Le monopole portugais sur la production des épices",
+   "Un échange culturel né de la présence portugaise en Asie",
+   "La christianisation de l'espace urbain"
+  ],
+  "a": 2,
+  "w": "Le vindaloo est un exemple d'échange culturel : la première mondialisation mélange aussi les cuisines. Le complément ajoute que son piment vient des Amériques, apporté en Inde par les Portugais."
+ },
+ {
+  "id": "C047",
+  "s": "s14",
+  "t": "qcm",
+  "q": "Dans le naufrage de la Guia (1625), pourquoi les Portugais de Macao emploient-ils de nombreux Japonais ?",
+  "o": [
+   "Parce qu'ils sont les meilleurs marins de l'océan Indien et connaissent les routes",
+   "Parce qu'ils sont tous catholiques, comme les Portugais de Macao",
+   "Parce que Macao appartient au Japon, qui impose ses propres marins",
+   "Parce qu'ils savent lire l'écriture chinoise, ce qui aide à négocier avec les Chinois"
+  ],
+  "a": 3,
+  "w": "Près de 70 Japonais, le deuxième groupe de passagers, servent d'intermédiaires parce qu'ils lisent l'écriture chinoise. Parmi eux se trouve même un prêtre catholique japonais."
+ },
+ {
+  "id": "C048",
+  "s": "s14",
+  "t": "vf",
+  "q": "Dans sa lettre de 1510, Albuquerque affirme avoir épargné les musulmans de Goa afin de s'en faire des alliés contre les hindous.",
+  "a": false,
+  "w": "Faux : c'est l'inverse. Il se vante de n'avoir fait grâce de la vie à aucun musulman (six mille morts) et d'avoir épargné les paysans hindous et les brahmanes."
+ },
+ {
+  "id": "C049",
+  "s": "s14",
+  "t": "vf",
+  "q": "Selon la lettre d'Albuquerque, les biens de la mosquée de Goa sont donnés à une église bâtie dans les remparts et dédiée à sainte Catherine.",
+  "a": true,
+  "w": "Vrai : l'église remplace la mosquée. La lettre révèle ainsi la christianisation de l'espace, en plus de la violence et de la guerre religieuse contre l'islam."
+ },
+ {
+  "id": "C050",
+  "s": "s14",
+  "t": "vf",
+  "q": "Parce qu'elle a été écrite par Albuquerque lui-même, témoin direct, la lettre de 1510 donne un récit parfaitement objectif de la prise de Goa.",
+  "a": false,
+  "w": "Faux : c'est une source primaire, mais elle ne donne que le point de vue du vainqueur. Le conquérant écrit à son roi et a intérêt à se montrer efficace et bon chrétien : il peut exagérer."
+ },
+ {
+  "id": "C051",
+  "s": "s14",
+  "t": "vf",
+  "q": "Une fois installés en Asie, les Portugais contrôlent la production des épices, de la soie et de la porcelaine.",
+  "a": false,
+  "w": "Faux : ils sont « au cœur du système, mais pas en amont ». Ils tiennent les ports et les routes, mais dépendent des producteurs et des marchands asiatiques, et la Chine des Ming reste la grande puissance."
+ },
+ {
+  "id": "C052",
+  "s": "s14",
+  "t": "vf",
+  "q": "Parmi les passagers de la Guia, qui fait naufrage sur la côte chinoise en 1625, les Européens forment moins de la moitié.",
+  "a": true,
+  "w": "Vrai : à côté d'environ 90 Portugais et de quelques Espagnols, on compte près de 70 Japonais, des marchands musulmans de Goa, des Philippins, des Africains et des Juifs. Le réseau portugais est cosmopolite."
+ },
+ {
+  "id": "C053",
+  "s": "s14",
+  "t": "courte",
+  "q": "Surnommé « le Lion des mers », ce gouverneur de l'Inde portugaise s'empare des points de passage de l'océan Indien entre 1510 et 1515.",
+  "acc": [
+   "Albuquerque",
+   "Afonso de Albuquerque",
+   "Alphonse d'Albuquerque"
+  ],
+  "m": "Afonso de Albuquerque. Il prend Goa (1510), Malacca (1511) et Ormuz (1515), et raconte au roi Manuel Ier le massacre des musulmans de Goa.",
+  "k": [
+   "Albuquerque",
+   "Lion des mers",
+   "Goa",
+   "points de passage"
+  ]
+ },
+ {
+  "id": "C054",
+  "s": "s14",
+  "t": "courte",
+  "q": "Ville de la côte de Malabar, en Inde, où Vasco de Gama arrive en 1498.",
+  "acc": [
+   "Calicut"
+  ],
+  "m": "Calicut. Gama y rencontre le Zamorin, souverain de la ville : c'est l'aboutissement de la voie du sud, ouverte par Dias au cap de Bonne-Espérance en 1488.",
+  "k": [
+   "Calicut",
+   "Gama",
+   "1498",
+   "Zamorin"
+  ]
+ },
+ {
+  "id": "C055",
+  "s": "s14",
+  "t": "courte",
+  "q": "Territoire de Chine où les Portugais s'installent en 1557, et qui n'existe qu'avec l'accord de la Chine des Ming.",
+  "acc": [
+   "Macao",
+   "Macau"
+  ],
+  "m": "Macao. Il n'existe qu'avec l'accord des Ming, preuve que les Portugais, « au cœur du système, mais pas en amont », ne dominent pas la grande puissance chinoise.",
+  "k": [
+   "Macao",
+   "1557",
+   "Ming"
+  ]
+ },
+ {
+  "id": "C056",
+  "s": "s14",
+  "t": "courte",
+  "q": "Nommez deux choses que révèle la lettre d'Albuquerque au roi Manuel Ier (1510) sur l'implantation portugaise à Goa.",
+  "acc": [],
+  "m": "Elle révèle la violence comme méthode d'implantation, une guerre religieuse contre l'islam (suite de l'esprit de croisade), une stratégie (épargner les hindous pour s'allier contre les marchands musulmans) et la christianisation de l'espace (l'église remplace la mosquée).",
+  "k": [
+   "violence",
+   "guerre religieuse",
+   "stratégie",
+   "christianisation"
+  ]
+ },
+ {
+  "id": "C057",
+  "s": "s14",
+  "t": "courte",
+  "q": "Que révèle la liste des passagers de la Guia, naufragée sur la côte chinoise en 1625, sur la première mondialisation ?",
+  "acc": [],
+  "m": "Le réseau portugais est cosmopolite : des Portugais nés à Macao ou dans des colonies dispersées dans le monde, des Espagnols, près de 70 Japonais, des marchands musulmans de Goa, des Philippins, des Africains et des Juifs, les Européens formant moins de la moitié. La première mondialisation mélange les peuples, et l'Asie en reste le centre.",
+  "k": [
+   "cosmopolite",
+   "Japonais",
+   "moins de la moitié",
+   "mélange des peuples"
+  ]
+ },
+ {
+  "id": "C058",
+  "s": "s15",
+  "t": "qcm",
+  "q": "Quel empereur aztèque est représenté sur la diapo en train d'observer une comète, interprétée comme un mauvais présage ?",
+  "o": [
+   "Atahualpa",
+   "Huayna Capac",
+   "Moctezuma",
+   "Huascar"
+  ],
+  "a": 2,
+  "w": "Moctezuma règne sur les Aztèques quand Cortés débarque au Mexique en 1519. Huayna Capac, Atahualpa et Huascar appartiennent à l'histoire de l'Empire inca."
+ },
+ {
+  "id": "C059",
+  "s": "s15",
+  "t": "qcm",
+  "q": "Où Colomb arrive-t-il le 12 octobre 1492, lors de son premier voyage ?",
+  "o": [
+   "À Hispaniola",
+   "Aux Bahamas",
+   "À Cuba",
+   "Aux Canaries"
+  ],
+  "a": 1,
+  "w": "Parti de Palos, il fait escale aux Canaries et arrive aux Bahamas le 12 octobre 1492. Il gagne ensuite Cuba et Hispaniola."
+ },
+ {
+  "id": "C060",
+  "s": "s15",
+  "t": "qcm",
+  "q": "Quel édifice, symbole du colonialisme, est construit sur le site même de l'ancien temple du Soleil de Cuzco ?",
+  "o": [
+   "Le couvent Santo Domingo",
+   "La cathédrale de Mexico",
+   "L'église dédiée à sainte Catherine, à Goa",
+   "Le fort d'Elmina"
+  ],
+  "a": 0,
+  "w": "Le couvent Santo Domingo, construit à partir de 1534, est bâti sur le temple du Soleil. Comme la cathédrale de Mexico sur le Templo Mayor, c'est un édifice chrétien élevé sur le lieu sacré des vaincus."
+ },
+ {
+  "id": "C061",
+  "s": "s15",
+  "t": "qcm",
+  "q": "Selon le cours, quel facteur est le plus important pour expliquer qu'une poignée d'Espagnols l'emporte sur les empires aztèque et inca ?",
+  "o": [
+   "Les armes à feu et l'acier",
+   "Les chevaux",
+   "Les alliés autochtones",
+   "Les épidémies"
+  ],
+  "a": 3,
+  "w": "Les épidémies, surtout la variole, sont le facteur le plus important : Huayna Capac en meurt vers 1525 et une épidémie frappe Tenochtitlan en 1520. Tout expliquer par les armes est un piège."
+ },
+ {
+  "id": "C062",
+  "s": "s15",
+  "t": "qcm",
+  "q": "Dans son Journal du 12 octobre 1492, Colomb écrit : « Ils doivent faire de bons serviteurs, et intelligents ». Que révèle ce passage ?",
+  "o": [
+   "L'exploitation envisagée dès le premier jour",
+   "Le projet d'évangélisation",
+   "L'intérêt pour l'or",
+   "Un regard eurocentrique sur leur nudité"
+  ],
+  "a": 0,
+  "w": "Dès le premier jour, Colomb imagine les Autochtones en serviteurs : il envisage leur exploitation. Le projet d'évangélisation correspond plutôt à « Je pense qu'ils deviendront chrétiens sans difficulté »."
+ },
+ {
+  "id": "C063",
+  "s": "s15",
+  "t": "qcm",
+  "q": "Le planisphère de Cantino (1502), une carte portugaise, montre déjà l'un de ces éléments. Lequel ?",
+  "o": [
+   "Le trajet du premier tour du monde de Magellan",
+   "La ligne de Tordesillas et la côte du Brésil",
+   "Le Saint-Laurent exploré par Cartier",
+   "Tenochtitlan conquise par Cortés"
+  ],
+  "a": 1,
+  "w": "En 1502, il montre la ligne de Tordesillas (1494), les Antilles « du roi de Castille », la côte du Brésil et l'Afrique. Magellan (1519-1522), Cortés (1519-1521) et Cartier (1534-1541) sont postérieurs."
+ },
+ {
+  "id": "C064",
+  "s": "s15",
+  "t": "qcm",
+  "q": "Quel organisme, créé en 1524, gouverne l'empire colonial espagnol depuis l'Espagne (Madrid, Séville) ?",
+  "o": [
+   "La vice-royauté du Pérou",
+   "La Sublime Porte",
+   "Le Conseil des Indes",
+   "La vice-royauté de Nouvelle-Espagne"
+  ],
+  "a": 2,
+  "w": "Le Conseil des Indes dirige l'empire depuis l'Espagne. La Sublime Porte est le gouvernement ottoman, et les vice-royautés gouvernent sur place, à Mexico et à Lima."
+ },
+ {
+  "id": "C065",
+  "s": "s15",
+  "t": "qcm",
+  "q": "Quand Pizarro arrive, l'Empire inca est divisé par une guerre de succession. Qui s'affronte pour le trône ?",
+  "o": [
+   "Huayna Capac et Atahualpa",
+   "Moctezuma et Huascar",
+   "Atahualpa et Huascar",
+   "Enriquillo et Galvarino"
+  ],
+  "a": 2,
+  "w": "Atahualpa et Huascar, fils de Huayna Capac, se disputent le trône après la mort de leur père, emporté par la variole. Pizarro profite de cette division interne."
+ },
+ {
+  "id": "C066",
+  "s": "s15",
+  "t": "qcm",
+  "q": "Quelles villes deviennent les capitales coloniales de l'empire espagnol en Amérique ?",
+  "o": [
+   "Tenochtitlan et Cuzco",
+   "Madrid et Séville",
+   "Cajamarca et Palos",
+   "Mexico et Lima"
+  ],
+  "a": 3,
+  "w": "Mexico et Lima sont les capitales coloniales. Madrid et Séville sont en Espagne, d'où le Conseil des Indes gouverne l'empire."
+ },
+ {
+  "id": "C067",
+  "s": "s15",
+  "t": "vf",
+  "q": "Francisco Pizarro conquiert l'Empire aztèque entre 1519 et 1521.",
+  "a": false,
+  "w": "Faux : c'est Hernán Cortés qui conquiert l'Empire aztèque (1519-1521). Pizarro conquiert l'Empire inca en 1532-1533."
+ },
+ {
+  "id": "C068",
+  "s": "s15",
+  "t": "vf",
+  "q": "La cathédrale de Mexico est construite sur le site même de l'ancien Templo Mayor aztèque.",
+  "a": true,
+  "w": "Vrai : bâtie entre 1573 et 1813 sur l'ancien temple aztèque, elle est un symbole du colonialisme, comme le couvent Santo Domingo sur le temple du Soleil de Cuzco."
+ },
+ {
+  "id": "C069",
+  "s": "s15",
+  "t": "vf",
+  "q": "Selon le cours, la supériorité des armes (acier, chevaux, armes à feu) suffit à expliquer la victoire d'une poignée de conquistadors.",
+  "a": false,
+  "w": "Faux : c'est le piège à éviter. Sans les épidémies, les divisions internes et les alliés autochtones, quelques centaines de conquistadors n'auraient pas vaincu des empires de plusieurs millions d'habitants."
+ },
+ {
+  "id": "C070",
+  "s": "s15",
+  "t": "vf",
+  "q": "Dans son Journal, Colomb annonce qu'il ramènera six Autochtones à « Votre Altesse », ce qui montre que la domination commence dès le premier jour.",
+  "a": true,
+  "w": "Vrai : il capture des Autochtones pour en faire des interprètes. Le même jour, il évalue aussi leur richesse, les imagine en serviteurs et prévoit de les convertir."
+ },
+ {
+  "id": "C071",
+  "s": "s15",
+  "t": "vf",
+  "q": "Hispaniola, la première colonie espagnole, correspond aujourd'hui à Haïti et à la République dominicaine.",
+  "a": true,
+  "w": "Vrai : cette île des Antilles, atteinte dès le premier voyage de Colomb, devient la première colonie espagnole."
+ },
+ {
+  "id": "C072",
+  "s": "s15",
+  "t": "courte",
+  "q": "Conquistador qui débarque au Mexique en 1519 et s'empare de Tenochtitlan en 1521.",
+  "acc": [
+   "Cortés",
+   "Hernán Cortés",
+   "Cortez",
+   "Fernand Cortez"
+  ],
+  "m": "Hernán Cortés. Il conquiert l'Empire aztèque de Moctezuma (1519-1521), aidé par les épidémies et par des alliés autochtones comme les Tlaxcaltèques.",
+  "k": [
+   "Cortés",
+   "Aztèques",
+   "Tenochtitlan",
+   "1521"
+  ]
+ },
+ {
+  "id": "C073",
+  "s": "s15",
+  "t": "courte",
+  "q": "Empereur inca de 1493 à 1525, mort de la variole avant même l'arrivée des Espagnols.",
+  "acc": [
+   "Huayna Capac",
+   "Huayna Capaq",
+   "Huayna Kapac"
+  ],
+  "m": "Huayna Capac. « Les pathogènes provenant d'Europe voyagent plus vite que les conquistadors » : sa mort déclenche entre ses fils Atahualpa et Huascar une guerre de succession qui divise l'empire.",
+  "k": [
+   "Huayna Capac",
+   "variole",
+   "guerre de succession"
+  ]
+ },
+ {
+  "id": "C074",
+  "s": "s15",
+  "t": "courte",
+  "q": "Peuple autochtone qui habite Hispaniola à l'arrivée de Colomb : villages de huttes, statuettes religieuses, siège cérémoniel sculpté.",
+  "acc": [
+   "Taïnos",
+   "Taïno",
+   "Tainos",
+   "Taino"
+  ],
+  "m": "Les Taïnos. Hispaniola devient la première colonie espagnole; plus tard, le cacique taïno Enriquillo y mènera une longue révolte.",
+  "k": [
+   "Taïnos",
+   "Hispaniola",
+   "première colonie"
+  ]
+ },
+ {
+  "id": "C075",
+  "s": "s15",
+  "t": "courte",
+  "q": "Pourquoi une poignée d'Espagnols réussit-elle à vaincre des empires de plusieurs millions d'habitants ? Donnez au moins deux facteurs.",
+  "acc": [],
+  "m": "Surtout à cause des épidémies (la variole tue Huayna Capac et frappe Tenochtitlan en 1520), mais aussi des divisions internes (Atahualpa contre Huascar, peuples dominés par les Aztèques), des alliés autochtones (Tlaxcaltèques) et des armes et de la stratégie (acier, chevaux, armes à feu, capture de l'empereur).",
+  "k": [
+   "épidémies",
+   "divisions internes",
+   "alliés autochtones",
+   "armes"
+  ]
+ },
+ {
+  "id": "C076",
+  "s": "s15",
+  "t": "courte",
+  "q": "Que révèle le Journal de Colomb du 12 octobre 1492 sur son attitude envers les Autochtones ? Donnez deux éléments.",
+  "acc": [],
+  "m": "Il évalue d'abord leur richesse (intérêt pour l'or), les voit comme des gens sans civilisation (regard eurocentrique), les imagine en serviteurs (exploitation), prévoit de les convertir (évangélisation) et en capture six pour en faire des interprètes (domination).",
+  "k": [
+   "richesse",
+   "eurocentrique",
+   "exploitation",
+   "évangélisation"
+  ]
+ },
+ {
+  "id": "C077",
+  "s": "s16",
+  "t": "qcm",
+  "q": "Dans le tableau qui compare les deux modèles coloniaux, quel territoire correspond à la colonie-comptoir (modèle portugais en Asie) ?",
+  "o": [
+   "D'immenses territoires à l'intérieur des terres",
+   "Un port fortifié et quelques points sur la côte",
+   "Des îles entièrement peuplées de colons",
+   "Une vice-royauté qui s'étend du Mexique au Chili"
+  ],
+  "a": 1,
+  "w": "La colonie-comptoir se limite à un port fortifié et à quelques points côtiers, avec peu d'Européens, pour contrôler le commerce. Les immenses territoires intérieurs caractérisent le modèle espagnol en Amérique."
+ },
+ {
+  "id": "C078",
+  "s": "s16",
+  "t": "qcm",
+  "q": "Lequel de ces territoires est un exemple de colonie de peuplement et d'exploitation (modèle espagnol) ?",
+  "o": [
+   "Goa",
+   "Malacca",
+   "Elmina",
+   "Le Pérou"
+  ],
+  "a": 3,
+  "w": "Le Pérou, comme Hispaniola et la Nouvelle-Espagne (Mexique), est une colonie de peuplement et d'exploitation. Goa, Malacca et Elmina sont des colonies-comptoirs."
+ },
+ {
+  "id": "C079",
+  "s": "s16",
+  "t": "qcm",
+  "q": "Selon la carte de l'empire colonial espagnol vers 1600, jusqu'où s'étend cet empire en Amérique ?",
+  "o": [
+   "Du Mexique au Chili",
+   "Du Saint-Laurent au Mexique",
+   "Des Antilles au Brésil",
+   "De Terre-Neuve aux Antilles"
+  ],
+  "a": 0,
+  "w": "L'empire va du Mexique au Chili, avec des territoires occupés (bleu foncé) et d'autres seulement revendiqués (bleu pâle). Le Brésil est portugais, et le Saint-Laurent est exploré par la France."
+ },
+ {
+  "id": "C080",
+  "s": "s16",
+  "t": "qcm",
+  "q": "Que montre la gravure de mineurs sur des échelles, en Amérique du Sud, présentée sur la diapo ?",
+  "o": [
+   "L'extraction de l'or de la Côte de l'Or",
+   "L'exploitation de l'argent, qui part vers l'Europe",
+   "La culture du cacao destinée à la Chine",
+   "La construction du temple du Soleil de Cuzco"
+  ],
+  "a": 1,
+  "w": "Elle illustre l'exploitation de l'argent en Amérique du Sud : le métal part vers l'Europe. Le complément ajoute que l'argent de Potosí circule jusqu'en Chine."
+ },
+ {
+  "id": "C081",
+  "s": "s16",
+  "t": "qcm",
+  "q": "À quel peuple appartient Galvarino, guerrier qui résiste aux Espagnols au Chili ?",
+  "o": [
+   "Les Taïnos",
+   "Les Tlaxcaltèques",
+   "Les Mapuches",
+   "Les Incas"
+  ],
+  "a": 2,
+  "w": "Galvarino est un guerrier mapuche du Chili. Enriquillo, lui, est un cacique taïno d'Hispaniola, et les Tlaxcaltèques sont des alliés de Cortés."
+ },
+ {
+  "id": "C082",
+  "s": "s16",
+  "t": "qcm",
+  "q": "La murale de Diego Rivera (1951) sur l'arrivée de Cortés montre le travail forcé, des esclaves marqués et la violence. De quel point de vue présente-t-elle la conquête ?",
+  "o": [
+   "Du point de vue des conquistadors",
+   "Du point de vue de l'Église",
+   "Du point de vue des vaincus",
+   "Du point de vue du Conseil des Indes"
+  ],
+  "a": 2,
+  "w": "Rivera montre la conquête du point de vue des vaincus, comme le Mexique du XXe siècle s'en souvient. C'est une représentation produite plus de quatre siècles après les faits."
+ },
+ {
+  "id": "C083",
+  "s": "s16",
+  "t": "qcm",
+  "q": "Laquelle de ces œuvres est une représentation de la conquête produite bien après les faits, et non une source primaire ?",
+  "o": [
+   "Le Journal de Colomb du 12 octobre 1492",
+   "La lettre d'Albuquerque au roi Manuel Ier",
+   "Le film « Aguirre, la colère de Dieu » (Herzog)",
+   "Le planisphère de Cantino, carte portugaise de 1502"
+  ],
+  "a": 2,
+  "w": "Le film de Werner Herzog, comme la bande dessinée de Gord Hill et le roman de Laurent Binet, est une représentation : il en dit autant sur son époque que sur la conquête. Les trois autres documents datent de l'époque des explorations."
+ },
+ {
+  "id": "C084",
+  "s": "s16",
+  "t": "qcm",
+  "q": "Système par lequel un colon reçoit le droit d'exiger le travail ou le tribut d'un groupe d'Autochtones, en échange de leur christianisation (complément).",
+  "o": [
+   "L'encomienda",
+   "Le devchirmé",
+   "La colonie-comptoir",
+   "La vice-royauté"
+  ],
+  "a": 0,
+  "w": "L'encomienda est, en pratique, du travail forcé. Le devchirmé est le système ottoman qui réquisitionne des garçons pour l'administration et l'armée."
+ },
+ {
+  "id": "C085",
+  "s": "s16",
+  "t": "qcm",
+  "q": "Selon le bilan vu en classe, quelle est la principale cause de l'effondrement de la population autochtone des Amériques ?",
+  "o": [
+   "Les guerres entre les empires aztèque et inca",
+   "L'émigration des Autochtones vers l'Europe",
+   "Des famines causées par un refroidissement du climat",
+   "Les maladies venues d'Europe, comme la variole et la rougeole"
+  ],
+  "a": 3,
+  "w": "La population s'effondre (jusqu'à 90 % dans certaines régions en un siècle) surtout à cause des maladies venues d'Europe. La violence et le travail forcé y contribuent aussi."
+ },
+ {
+  "id": "C086",
+  "s": "s16",
+  "t": "vf",
+  "q": "Comme le modèle portugais en Asie, le modèle espagnol en Amérique se limite à contrôler le commerce depuis quelques ports, sans occuper l'intérieur des terres.",
+  "a": false,
+  "w": "Faux : les Espagnols occupent d'immenses territoires à l'intérieur des terres, y installent des colons et soumettent les Autochtones pour exploiter les terres, les mines et les gens, et les convertir."
+ },
+ {
+  "id": "C087",
+  "s": "s16",
+  "t": "vf",
+  "q": "Le cacao est un produit européen que les Espagnols introduisent en Amérique.",
+  "a": false,
+  "w": "Faux : c'est l'inverse. Le cacao (statuette aztèque d'un homme qui porte une cabosse) est un produit américain qui gagne l'Europe."
+ },
+ {
+  "id": "C088",
+  "s": "s16",
+  "t": "vf",
+  "q": "Les œuvres sur la conquête produites bien après les faits, comme la murale de Diego Rivera (1951), en disent autant sur leur propre époque que sur la conquête.",
+  "a": true,
+  "w": "Vrai : ce sont des représentations, pas des sources primaires. La murale de Rivera révèle notamment comment le Mexique du XXe siècle se souvient de la conquête."
+ },
+ {
+  "id": "C089",
+  "s": "s16",
+  "t": "vf",
+  "q": "Selon le cours, la première mondialisation enrichit les métropoles ibériques et multiplie les échanges, mais elle repose sur la conquête et la violence.",
+  "a": true,
+  "w": "Vrai : elle relie pour la première fois tous les continents, mais au prix de la conquête, de la violence et d'une catastrophe démographique pour les peuples autochtones, qui résistent pourtant."
+ },
+ {
+  "id": "C090",
+  "s": "s16",
+  "t": "vf",
+  "q": "Sur la carte de l'empire colonial espagnol vers 1600, une partie du territoire est seulement revendiquée, et non occupée.",
+  "a": true,
+  "w": "Vrai : la carte distingue le territoire occupé (bleu foncé) du territoire revendiqué (bleu pâle). Revendiquer un territoire ne veut pas dire le contrôler."
+ },
+ {
+  "id": "C091",
+  "s": "s16",
+  "t": "courte",
+  "q": "Action de peupler un pays ou un territoire de colons, de l'exploiter et de le placer sous la dépendance d'une métropole.",
+  "acc": [
+   "colonisation"
+  ],
+  "m": "La colonisation (définition vue en classe). C'est le modèle espagnol en Amérique (Hispaniola, Nouvelle-Espagne, Pérou), différent de la colonie-comptoir portugaise qui se limite à quelques ports.",
+  "k": [
+   "colonisation",
+   "colons",
+   "exploiter",
+   "métropole"
+  ]
+ },
+ {
+  "id": "C092",
+  "s": "s16",
+  "t": "courte",
+  "q": "Chef (cacique) taïno qui mène une longue révolte contre les Espagnols à Hispaniola; sa statue se dresse aujourd'hui en République dominicaine.",
+  "acc": [
+   "Enriquillo"
+  ],
+  "m": "Enriquillo. Sa révolte (de 1519 à 1533, selon le complément) montre que les Autochtones résistent à la conquête, comme Galvarino et les Mapuches au Chili.",
+  "k": [
+   "Enriquillo",
+   "Taïnos",
+   "Hispaniola",
+   "résistance"
+  ]
+ },
+ {
+  "id": "C093",
+  "s": "s16",
+  "t": "courte",
+  "q": "Nom donné aux transferts de plantes, d'animaux et de maladies à travers l'Atlantique après la conquête : maïs, pomme de terre et cacao vers l'Europe, l'Afrique et l'Asie; cheval, blé et canne à sucre vers les Amériques (complément).",
+  "acc": [
+   "échange colombien",
+   "échanges colombiens"
+  ],
+  "m": "L'échange colombien. Les Amériques donnent le maïs, la pomme de terre, la tomate, le cacao, le tabac et le piment; elles reçoivent le cheval, le bœuf, le blé, la canne à sucre... et les microbes.",
+  "k": [
+   "échange colombien",
+   "plantes",
+   "animaux",
+   "maladies"
+  ]
+ },
+ {
+  "id": "C094",
+  "s": "s16",
+  "t": "courte",
+  "q": "Donnez deux différences entre la colonie-comptoir (modèle portugais en Asie) et la colonie de peuplement et d'exploitation (modèle espagnol en Amérique).",
+  "acc": [],
+  "m": "Territoire : un port fortifié et quelques points sur la côte, contre d'immenses territoires à l'intérieur des terres. Population : peu d'Européens, contre des colons qui s'installent et des Autochtones soumis. But : contrôler le commerce des épices, contre exploiter les terres, les mines et les gens, et convertir.",
+  "k": [
+   "territoire",
+   "population",
+   "commerce",
+   "exploitation"
+  ]
+ },
+ {
+  "id": "C095",
+  "s": "s16",
+  "t": "courte",
+  "q": "Expression qui désigne l'effondrement de la population autochtone des Amériques après la conquête, l'une des conséquences majeures de la première mondialisation.",
+  "acc": [
+   "catastrophe démographique",
+   "effondrement démographique",
+   "choc démographique",
+   "déclin démographique"
+  ],
+  "m": "La catastrophe démographique. La population autochtone chute jusqu'à 90 % dans certaines régions en un siècle, surtout à cause des maladies venues d'Europe (variole, rougeole), mais aussi de la violence et du travail forcé.",
+  "k": [
+   "catastrophe démographique",
+   "maladies",
+   "variole",
+   "travail forcé"
+  ]
+ },
+ {
+  "id": "C096",
+  "s": "s17",
+  "t": "qcm",
+  "q": "En quelle année Vasco de Gama atteint-il Calicut ?",
+  "o": [
+   "1488",
+   "1492",
+   "1498",
+   "1500"
+  ],
+  "a": 2,
+  "w": "Gama arrive à Calicut en 1498, dix ans après que Dias a atteint le cap de Bonne-Espérance (1488). En 1500, c'est Cabral qui touche le Brésil."
+ },
+ {
+  "id": "C097",
+  "s": "s17",
+  "t": "qcm",
+  "q": "Quels événements ont tous lieu en 1492 ?",
+  "o": [
+   "Prise de Grenade, décret de l'Alhambra, Colomb aux Bahamas",
+   "Traité de Tordesillas, Cabral au Brésil, prise de Goa",
+   "Bataille de Toro, traité entre le Portugal et la Castille, fort d'Elmina",
+   "Prise de Ceuta, cap Bojador franchi, arrivée à Madère"
+  ],
+  "a": 0,
+  "w": "En 1492 : prise de Grenade (2 janvier), décret de l'Alhambra (31 mars) et arrivée de Colomb aux Bahamas (12 octobre). Isabelle finance Colomb après la prise de Grenade."
+ },
+ {
+  "id": "C098",
+  "s": "s17",
+  "t": "qcm",
+  "q": "Remettez ces événements dans l'ordre chronologique : Colomb aux Bahamas, prise de Ceuta, Gama à Calicut, Dias au cap de Bonne-Espérance.",
+  "o": [
+   "Ceuta → Colomb → Dias → Gama",
+   "Ceuta → Dias → Colomb → Gama",
+   "Dias → Ceuta → Gama → Colomb",
+   "Ceuta → Dias → Gama → Colomb"
+  ],
+  "a": 1,
+  "w": "Ceuta (1415), Dias (1488), Colomb (1492), Gama (1498). Retiens le couple 1488 (Dias) puis 1498 (Gama), avec Colomb entre les deux."
+ },
+ {
+  "id": "C099",
+  "s": "s17",
+  "t": "qcm",
+  "q": "Remettez ces événements dans l'ordre chronologique : conquête de l'Empire inca par Pizarro, planisphère de Cantino, création du Conseil des Indes, conquête de l'Empire aztèque par Cortés.",
+  "o": [
+   "Cantino → Cortés → Conseil des Indes → Pizarro",
+   "Cortés → Cantino → Pizarro → Conseil des Indes",
+   "Cantino → Pizarro → Cortés → Conseil des Indes",
+   "Cortés → Conseil des Indes → Cantino → Pizarro"
+  ],
+  "a": 0,
+  "w": "Planisphère de Cantino (1502), Cortés (1519-1521), Conseil des Indes (1524), Pizarro (1532-1533)."
+ },
+ {
+  "id": "C100",
+  "s": "s17",
+  "t": "qcm",
+  "q": "À quelle période ont lieu les sept expéditions de Zheng He ?",
+  "o": [
+   "1271-1295",
+   "1325-1354",
+   "1519-1522",
+   "1405-1433"
+  ],
+  "a": 3,
+  "w": "Zheng He mène ses expéditions de 1405 à 1433. 1271-1295 correspond au voyage de Marco Polo, 1325-1354 à ceux d'Ibn Battuta et 1519-1522 au premier tour du monde."
+ },
+ {
+  "id": "C101",
+  "s": "s17",
+  "t": "qcm",
+  "q": "Quand la peste noire frappe-t-elle l'Europe ?",
+  "o": [
+   "1206-1227",
+   "1347-1352",
+   "1402-1424",
+   "1516-1517"
+  ],
+  "a": 1,
+  "w": "La peste noire tue un tiers à la moitié des Européens entre 1347 et 1352. 1206-1227 : Gengis Khan; 1402-1424 : règne de Yongle; 1516-1517 : conquêtes de Selim Ier."
+ },
+ {
+  "id": "C102",
+  "s": "s17",
+  "t": "qcm",
+  "q": "Remettez ces événements dans l'ordre chronologique : Hongwu fonde la dynastie Ming, les Mongols prennent Bagdad, peste noire en Europe, Gengis Khan unifie les Mongols.",
+  "o": [
+   "Bagdad → Gengis Khan → dynastie Ming → peste noire",
+   "Gengis Khan → peste noire → Bagdad → dynastie Ming",
+   "Gengis Khan → Bagdad → peste noire → dynastie Ming",
+   "Gengis Khan → Bagdad → dynastie Ming → peste noire"
+  ],
+  "a": 2,
+  "w": "Gengis Khan (1206-1227), prise de Bagdad (1258), peste noire (1347-1352), fondation des Ming par Hongwu (1368)."
+ },
+ {
+  "id": "C103",
+  "s": "s17",
+  "t": "qcm",
+  "q": "Selon l'astuce de la chronologie, quel couple cause et conséquence est correct ?",
+  "o": [
+   "1494 (Tordesillas) mène à 1492 (Colomb)",
+   "1479 (l'Espagne bloquée au sud) mène à 1492 (voie de l'ouest)",
+   "1498 (Gama) mène à 1488 (Dias)",
+   "1415 (Ceuta) mène à 1453 (Constantinople ottomane)"
+  ],
+  "a": 1,
+  "w": "Le traité de 1479 bloque l'Espagne au sud, d'où la voie de l'ouest en 1492. Les autres couples sont inversés ou sans lien : c'est Colomb (1492) qui mène à Tordesillas (1494), et Dias (1488) qui ouvre la voie à Gama (1498)."
+ },
+ {
+  "id": "C104",
+  "s": "s17",
+  "t": "qcm",
+  "q": "Quel événement a lieu en 1479 ?",
+  "o": [
+   "La bataille de Toro entre la Castille et le Portugal",
+   "Le mariage d'Isabelle de Castille et de Ferdinand d'Aragon",
+   "La construction du fort d'Elmina sur la Côte de l'Or",
+   "Le traité qui ne laisse que les Canaries à l'Espagne"
+  ],
+  "a": 3,
+  "w": "Le traité de 1479 met fin au conflit : l'Espagne n'a que les Canaries et doit se tourner vers l'ouest. Le mariage date de 1469, Toro de 1476 et Elmina de 1482."
+ },
+ {
+  "id": "C105",
+  "s": "s17",
+  "t": "qcm",
+  "q": "Remettez ces événements de l'histoire ottomane dans l'ordre chronologique : Mohács, prise de Constantinople, Lépante, Gallipoli.",
+  "o": [
+   "Gallipoli → Constantinople → Mohács → Lépante",
+   "Constantinople → Gallipoli → Lépante → Mohács",
+   "Gallipoli → Mohács → Constantinople → Lépante",
+   "Constantinople → Gallipoli → Mohács → Lépante"
+  ],
+  "a": 0,
+  "w": "Les Ottomans prennent pied en Europe à Gallipoli (1354) et prennent Constantinople (1453); viennent ensuite Mohács (1526) et la défaite navale de Lépante (1571)."
+ },
+ {
+  "id": "C106",
+  "s": "s17",
+  "t": "courte",
+  "q": "En quelle année Mehmet II prend-il Constantinople, ce qui met fin à l'Empire byzantin ?",
+  "acc": [
+   "1453"
+  ],
+  "m": "En 1453. Les Ottomans contrôlent ensuite la mer Noire et l'est de la Méditerranée : les Européens doivent chercher une autre route vers l'Asie.",
+  "k": [
+   "1453",
+   "Constantinople",
+   "Mehmet II"
+  ]
+ },
+ {
+  "id": "C107",
+  "s": "s17",
+  "t": "courte",
+  "q": "En quelle année les Portugais prennent-ils Ceuta, en Afrique du Nord, point de départ de leur expansion ?",
+  "acc": [
+   "1415"
+  ],
+  "m": "En 1415. La prise de Ceuta lance l'expansion portugaise le long des côtes africaines et s'inscrit dans l'esprit de croisade.",
+  "k": [
+   "1415",
+   "Ceuta",
+   "expansion portugaise"
+  ]
+ },
+ {
+  "id": "C108",
+  "s": "s17",
+  "t": "courte",
+  "q": "En quelle année Bartolomeu Dias atteint-il le cap de Bonne-Espérance ?",
+  "acc": [
+   "1488"
+  ],
+  "m": "En 1488. La route de l'océan Indien est ouverte; Vasco de Gama l'emprunte dix ans plus tard pour atteindre Calicut (1498).",
+  "k": [
+   "1488",
+   "Dias",
+   "cap de Bonne-Espérance"
+  ]
+ },
+ {
+  "id": "C109",
+  "s": "s17",
+  "t": "courte",
+  "q": "En quelle année l'Espagne et le Portugal signent-ils le traité de Tordesillas ?",
+  "acc": [
+   "1494"
+  ],
+  "m": "En 1494, deux ans après le premier voyage de Colomb (1492). Les deux royaumes se partagent les terres hors d'Europe de part et d'autre d'une ligne nord-sud.",
+  "k": [
+   "1494",
+   "Tordesillas",
+   "partage"
+  ]
+ },
+ {
+  "id": "C110",
+  "s": "s17",
+  "t": "courte",
+  "q": "En quelle année Albuquerque prend-il Goa, avant d'écrire au roi Manuel Ier ?",
+  "acc": [
+   "1510"
+  ],
+  "m": "En 1510. Albuquerque prend ensuite Malacca (1511) et Ormuz (1515), les points de passage de l'océan Indien.",
+  "k": [
+   "1510",
+   "Goa",
+   "Albuquerque"
+  ]
+ }
+]

@@ -1,0 +1,255 @@
+[
+ {
+  "id": "F05-01",
+  "s": "s5",
+  "t": "qcm",
+  "q": "Organisation politique et sociale du Moyen Âge dans laquelle un seigneur donne une terre et sa protection à un vassal, qui lui doit en retour fidélité, service militaire et conseil",
+  "o": [
+   "Devchirmé",
+   "Pax Mongolica",
+   "Féodalisme",
+   "Reconquista"
+  ],
+  "a": 2,
+  "w": "Le féodalisme repose sur un échange : le suzerain donne un fief et sa protection, le vassal lui doit fidélité, service militaire et conseil."
+ },
+ {
+  "id": "F05-02",
+  "s": "s5",
+  "t": "qcm",
+  "q": "Dans la pyramide féodale de la diapo, que fait chaque niveau pour celui qui se trouve juste au-dessous de lui ?",
+  "o": [
+   "Il le sert et le conseille",
+   "Il le protège et lui donne un fief",
+   "Il lui doit des redevances et du travail",
+   "Il lui jure fidélité par l'hommage"
+  ],
+  "a": 1,
+  "w": "La pyramide se lit dans les deux sens : de haut en bas, chacun protège et donne un fief à celui du dessous; de bas en haut, chacun sert et conseille celui du dessus."
+ },
+ {
+  "id": "F05-03",
+  "s": "s5",
+  "t": "qcm",
+  "q": "Dans la pyramide féodale de la diapo, qui se trouve juste sous le roi ?",
+  "o": [
+   "Les simples vassaux",
+   "Les serfs attachés à la terre",
+   "Les artisans et les marchands",
+   "Les grands seigneurs (ducs et comtes)"
+  ],
+  "a": 3,
+  "w": "De haut en bas : le roi, les grands seigneurs (ducs et comtes), les seigneurs, puis les simples vassaux. Tout en bas, les serfs travaillent la terre."
+ },
+ {
+  "id": "F05-04",
+  "s": "s5",
+  "t": "qcm",
+  "q": "Que montre l'enluminure où Édouard Ier d'Angleterre rend hommage à Philippe IV le Bel ?",
+  "o": [
+   "Qu'un roi peut être le vassal d'un autre roi pour certaines terres",
+   "Que l'hommage sert à faire d'un jeune noble un chevalier",
+   "Que le vassal est un paysan non libre attaché à la terre",
+   "Que les rois occupent le milieu de la pyramide féodale"
+  ],
+  "a": 0,
+  "w": "Par l'hommage, le vassal jure fidélité à son seigneur. En le faisant devant Philippe IV le Bel, Édouard Ier montre qu'un roi peut être le vassal d'un autre roi pour certaines terres."
+ },
+ {
+  "id": "F05-05",
+  "s": "s5",
+  "t": "qcm",
+  "q": "Quels groupes forment les trois ordres de la société médiévale : ceux qui prient, ceux qui combattent et ceux qui travaillent ?",
+  "o": [
+   "Le roi, les vassaux et la bourgeoisie",
+   "La noblesse, les marchands et les artisans",
+   "Le clergé, la noblesse et les paysans",
+   "Le clergé, la bourgeoisie et la noblesse"
+  ],
+  "a": 2,
+  "w": "Le clergé prie, la noblesse combat et les paysans travaillent (enluminure au clerc, au chevalier et au paysan). La bourgeoisie ne fait pas partie des trois ordres."
+ },
+ {
+  "id": "F05-06",
+  "s": "s5",
+  "t": "qcm",
+  "q": "Quelle est la différence entre un vassal et un serf ?",
+  "o": [
+   "Le vassal vit en ville et fait du commerce; le serf vit au château",
+   "Le vassal appartient au clergé; le serf appartient à la noblesse",
+   "Le vassal est un esclave qu'on vend; le serf est un paysan libre",
+   "Le vassal est un noble qui reçoit un fief; le serf, un paysan non libre"
+  ],
+  "a": 3,
+  "w": "C'est un piège signalé dans le cours : le vassal est un noble qui reçoit un fief, alors que le serf est un paysan non libre, attaché à la terre de son seigneur."
+ },
+ {
+  "id": "F05-07",
+  "s": "s5",
+  "t": "qcm",
+  "q": "Pourquoi la population de l'Europe augmente-t-elle fortement entre 1000 et 1300 ?",
+  "o": [
+   "Pandémie de peste, petit âge glaciaire",
+   "Défrichements, climat plus doux, progrès agricoles",
+   "Reconquista, décret de l'Alhambra",
+   "Conquêtes ottomanes, système du devchirmé"
+  ],
+  "a": 1,
+  "w": "L'Europe passe de 30-40 à 60-80 millions d'habitants : on transforme forêts et marais en champs, le climat est plus doux et l'agriculture progresse (chevaux, charrue, moulins)."
+ },
+ {
+  "id": "F05-08",
+  "s": "s5",
+  "t": "qcm",
+  "q": "Quelle association entre des villes et leur région ou leur réseau marchand est exacte ?",
+  "o": [
+   "Bruges et Gand : la Flandre, région du textile",
+   "Lübeck et Hambourg : les foires de Champagne",
+   "Venise et Gênes : la Hanse de la Baltique",
+   "Troyes et Provins : l'Italie du Nord et ses banques"
+  ],
+  "a": 0,
+  "w": "Bruges et Gand sont en Flandre, grande région du textile. Lübeck et Hambourg appartiennent à la Hanse, Troyes et Provins aux foires de Champagne, Venise et Gênes à l'Italie du Nord."
+ },
+ {
+  "id": "F05-09",
+  "s": "s5",
+  "t": "qcm",
+  "q": "Quels atouts de l'Europe du XVe siècle sont des ingrédients des explorations ?",
+  "o": [
+   "Longue paix, climat de plus en plus doux, population épargnée par la peste",
+   "Serfs devenus libres et nombreux, qui réclament des terres outre-mer",
+   "Villes marchandes riches, bourgeoisie qui veut s'enrichir, noblesse en quête de fiefs",
+   "Marchands italiens qui contrôlent déjà Constantinople, Alexandrie et Damas"
+  ],
+  "a": 2,
+  "w": "L'Europe sort d'une crise (peste, froid), mais elle a des villes marchandes riches (Venise, Gênes), une bourgeoisie qui veut s'enrichir et une noblesse guerrière qui vit de la terre et cherche des fiefs."
+ },
+ {
+  "id": "F05-10",
+  "s": "s5",
+  "t": "vf",
+  "q": "Le serf est un esclave : son seigneur peut le vendre comme une marchandise.",
+  "a": false,
+  "w": "Faux. Le serf n'est pas un esclave : il n'est pas vendu comme une marchandise, mais il est attaché à la terre de son seigneur et lui doit des redevances et du travail."
+ },
+ {
+  "id": "F05-11",
+  "s": "s5",
+  "t": "vf",
+  "q": "Selon le graphique de la diapo, la population de l'Europe passe d'environ 60-80 millions d'habitants en 1300 à 35-45 millions en 1400.",
+  "a": true,
+  "w": "Vrai. Après le sommet de 1300 vient la chute : pandémie de peste (1347-1352) et petit âge glaciaire à partir du XIVe siècle."
+ },
+ {
+  "id": "F05-12",
+  "s": "s5",
+  "t": "vf",
+  "q": "Les villes de la Hanse, comme Lübeck et Hambourg, sont reliées par mer à Constantinople, Alexandrie, Beyrouth et Damas.",
+  "a": false,
+  "w": "Faux. C'est l'Italie du Nord (Venise, Gênes, Milan, Florence) qui est reliée à ces villes. La Hanse est un réseau de villes marchandes de la mer du Nord et de la Baltique."
+ },
+ {
+  "id": "F05-13",
+  "s": "s5",
+  "t": "vf",
+  "q": "Le bas clergé (prêtres, moines, moniales) se situe au sommet de la pyramide sociale, avec la monarchie et l'aristocratie.",
+  "a": false,
+  "w": "Faux. Le bas clergé est au milieu, avec les artisans et les marchands. Au sommet, on trouve la monarchie, l'aristocratie et le haut clergé (évêques, abbés, abbesses)."
+ },
+ {
+  "id": "F05-14",
+  "s": "s5",
+  "t": "vf",
+  "q": "Les grands défrichements consistent à transformer des forêts et des marais en champs.",
+  "a": true,
+  "w": "Vrai. Ils accompagnent la prospérité médiévale (vers 1000-1300), quand la population de l'Europe augmente fortement."
+ },
+ {
+  "id": "F05-15",
+  "s": "s5",
+  "t": "courte",
+  "q": "Paysan qui est un intermédiaire entre l'esclave et l'humain libre : attaché à la terre de son seigneur, il lui doit des redevances et du travail",
+  "acc": [
+   "serf",
+   "serfs"
+  ],
+  "m": "Le serf est un intermédiaire entre l'esclave et l'humain libre : il n'est pas vendu comme une marchandise, mais il est attaché à la terre de son seigneur. Les serfs forment la grande majorité de la population.",
+  "k": [
+   "serf",
+   "intermédiaire",
+   "esclave",
+   "humain libre",
+   "attaché à la terre"
+  ]
+ },
+ {
+  "id": "F05-16",
+  "s": "s5",
+  "t": "courte",
+  "q": "Groupe des artisans et des marchands qui vivent en ville et ne font partie d'aucun des trois ordres; son nom vient d'un mot qui désigne la ville",
+  "acc": [
+   "bourgeoisie",
+   "bourgeois"
+  ],
+  "m": "La bourgeoisie, du mot « bourg » (ville), regroupe les artisans et les marchands qui tentent de faire leur place. Elle n'est pas un des trois ordres : c'est justement la classe qui n'y trouve pas sa place.",
+  "k": [
+   "bourgeoisie",
+   "bourg",
+   "ville",
+   "artisans",
+   "marchands",
+   "hors des trois ordres"
+  ]
+ },
+ {
+  "id": "F05-17",
+  "s": "s5",
+  "t": "courte",
+  "q": "Cérémonie qui fait d'un jeune noble un chevalier; une enluminure montre Jean II le Bon en train de la pratiquer",
+  "acc": [
+   "adoubement"
+  ],
+  "m": "L'adoubement fait d'un jeune noble un chevalier (Jean II le Bon adoubant des chevaliers). Il ne faut pas le confondre avec l'hommage, où le vassal jure fidélité à son seigneur.",
+  "k": [
+   "adoubement",
+   "chevalier",
+   "jeune noble"
+  ]
+ },
+ {
+  "id": "F05-18",
+  "s": "s5",
+  "t": "courte",
+  "q": "Période de climat plus doux (environ 900-1300) qui donne de meilleures récoltes et nourrit la prospérité de l'Europe médiévale",
+  "acc": [
+   "petit optimum médiéval",
+   "optimum médiéval",
+   "optimum climatique médiéval"
+  ],
+  "m": "Le petit optimum médiéval (vers 900-1300) apporte un climat plus doux et de meilleures récoltes. Il est suivi, à partir du XIVe siècle, par le petit âge glaciaire.",
+  "k": [
+   "petit optimum médiéval",
+   "climat plus doux",
+   "meilleures récoltes"
+  ]
+ },
+ {
+  "id": "F05-19",
+  "s": "s5",
+  "t": "courte",
+  "q": "Rencontres commerciales tenues à Troyes, Provins, Lagny et Bar-sur-Aube, où se croisent les marchands du nord et du sud",
+  "acc": [
+   "foires de Champagne",
+   "foire de Champagne",
+   "Champagne"
+  ],
+  "m": "Les foires de Champagne (Troyes, Provins, Lagny, Bar-sur-Aube) sont des lieux de rencontre des marchands du nord et du sud. Elles montrent le renouveau des villes et du commerce vers 1000-1300.",
+  "k": [
+   "foires de Champagne",
+   "marchands",
+   "nord et sud",
+   "commerce"
+  ]
+ }
+]

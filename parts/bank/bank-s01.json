@@ -1,0 +1,245 @@
+[
+ {
+  "id": "F01-01",
+  "s": "s1",
+  "t": "qcm",
+  "q": "Selon la définition du prof, qu'est-ce que la mondialisation ?",
+  "o": [
+   "Le commerce des marchandises entre l'Europe et l'Asie, par la route de la soie et la route des épices.",
+   "Une entité politique de grande envergure, caractérisée par une dynamique expansionniste qui incorpore des populations et des territoires divers.",
+   "Une interaction généralisée entre les différentes parties de l'humanité, qui s'observe par des connexions politiques, économiques, culturelles, sociales et environnementales.",
+   "Une période où une domination impériale sécurise les routes et favorise les échanges de marchandises et d'idées."
+  ],
+  "a": 2,
+  "w": "C'est la définition du prof, à savoir presque mot à mot : la mondialisation n'est pas seulement le commerce, elle comprend aussi les conflits, les échanges culturels, les rapports de domination et les diffusions biologiques. La deuxième option définit un empire, la dernière ressemble à la Pax Mongolica."
+ },
+ {
+  "id": "F01-02",
+  "s": "s1",
+  "t": "qcm",
+  "q": "Dans la définition de la mondialisation surlignée par le prof, à quelle dimension correspondent les « diffusions biologiques et écologiques » ?",
+  "o": [
+   "Politique",
+   "Économique",
+   "Culturelle",
+   "Environnementale"
+  ],
+  "a": 3,
+  "w": "Le prof associe la dimension environnementale aux diffusions biologiques : peste noire (1347-1352), variole en Amérique, café planté aux Antilles et au Brésil. La dimension politique va avec les conflits, l'économique avec le commerce et la culturelle avec les échanges culturels."
+ },
+ {
+  "id": "F01-03",
+  "s": "s1",
+  "t": "qcm",
+  "q": "Quel exemple du cours illustre la dimension culturelle de la mondialisation ?",
+  "o": [
+   "La peste noire (1347-1352)",
+   "L'astrolabe de Tolède (hébreu, arabe et latin)",
+   "La route des épices",
+   "La conquête de l'Empire aztèque"
+  ],
+  "a": 1,
+  "w": "L'astrolabe de Tolède réunit trois langues et trois cultures : c'est un échange culturel, comme la céramique d'Iznik qui imite la porcelaine chinoise. La peste relève de l'environnemental, la route des épices de l'économique et la conquête aztèque du politique."
+ },
+ {
+  "id": "F01-04",
+  "s": "s1",
+  "t": "qcm",
+  "q": "Quel exemple du cours illustre la dimension sociale de la mondialisation (migrations, sociétés mélangées) ?",
+  "o": [
+   "L'exil des Juifs d'Espagne en 1492",
+   "La céramique d'Iznik qui imite la porcelaine chinoise",
+   "La variole en Amérique",
+   "L'argent des Amériques"
+  ],
+  "a": 0,
+  "w": "L'exil des Juifs d'Espagne (1492) est une migration, tout comme les passagers de toutes origines du navire Guia : c'est la dimension sociale. La céramique d'Iznik est culturelle, la variole environnementale et l'argent des Amériques économique."
+ },
+ {
+  "id": "F01-05",
+  "s": "s1",
+  "t": "qcm",
+  "q": "Qui a écrit : « The past is a foreign country; they do things differently there » ?",
+  "o": [
+   "Patrick Boucheron",
+   "Leslie Poles Hartley",
+   "Paul Veyne",
+   "Michel-Rolph Trouillot"
+  ],
+  "a": 1,
+  "w": "La phrase est de Leslie Poles Hartley : le passé est un pays étranger, on ne juge donc pas ses habitants avec nos valeurs (sinon, c'est de l'anachronisme). Boucheron a écrit la phrase sur l'historien qui « écrit toujours de quelque part », Veyne celle sur le « roman vrai »."
+ },
+ {
+  "id": "F01-06",
+  "s": "s1",
+  "t": "qcm",
+  "q": "Que cherche-t-on surtout à éviter avec la formule du cours : pas de « nous » ou de « eux », que des « eux » ?",
+  "o": [
+   "L'anachronisme",
+   "La subjectivité de l'historien",
+   "Le recours aux sources secondaires",
+   "L'eurocentrisme"
+  ],
+  "a": 3,
+  "w": "Même les Européens du XVe siècle nous sont étrangers : aucune société du passé n'est « nous », ce qui évite de raconter l'histoire du point de vue d'un seul camp (eurocentrisme). L'anachronisme, lui, est le piège visé par la phrase de Hartley."
+ },
+ {
+  "id": "F01-07",
+  "s": "s1",
+  "t": "qcm",
+  "q": "Dans la petite histoire du café racontée au premier cours, où le caféier (Coffea arabica) pousse-t-il à l'état sauvage à l'origine ?",
+  "o": [
+   "Au Yémen",
+   "Au Brésil",
+   "À Java",
+   "En Éthiopie"
+  ],
+  "a": 3,
+  "w": "Le caféier est originaire d'Éthiopie. Le Yémen est l'endroit où l'on boit le café au XVe siècle (port de Moka), tandis que Java et le Brésil sont des colonies où les Européens le plantent plus tard."
+ },
+ {
+  "id": "F01-08",
+  "s": "s1",
+  "t": "qcm",
+  "q": "Pourquoi la plaque du Bénin (XVIe ou XVIIe siècle) est-elle un bon exemple d'histoire globale ?",
+  "o": [
+   "C'est une carte ottomane qui combine plusieurs cartes, dont une de Christophe Colomb.",
+   "Elle montre la conquête du royaume du Bénin par des soldats portugais, peinte à Lisbonne.",
+   "Elle représente deux marchands portugais vus par des artistes du royaume du Bénin : la rencontre est vue de l'autre côté.",
+   "Elle montre des marchands vénitiens qui achètent du poivre sur la côte de Malabar."
+  ],
+  "a": 2,
+  "w": "La plaque, faite par des artistes du royaume du Bénin (actuel Nigeria), montre les Européens vus par les Africains : on ne raconte plus le monde seulement à partir de l'Europe. La carte ottomane qui utilise une carte de Colomb, c'est la carte de Piri Reis (1513)."
+ },
+ {
+  "id": "F01-09",
+  "s": "s1",
+  "t": "qcm",
+  "q": "Pourquoi le cours commence-t-il au XVe siècle, alors que des connexions existaient déjà avant (Mongols, route de la soie, océan Indien) ?",
+  "o": [
+   "Parce qu'avant le XVe siècle, il n'existait aucun échange entre l'Europe et l'Asie.",
+   "Parce que Colomb (1492) et Gama (1498) relient durablement tous les continents, Amériques comprises.",
+   "Parce que c'est au XVe siècle que les Mongols ouvrent la route de la soie.",
+   "Parce que la peste noire relie pour la première fois l'Europe et l'Asie au XVe siècle."
+  ],
+  "a": 1,
+  "w": "Les connexions d'avant restaient régionales; à partir de 1492 et de 1498, le monde est connecté « pour de bon » : c'est la première mondialisation. Les Mongols et la peste noire appartiennent aux XIIIe et XIVe siècles, et ils prouvent justement que des échanges existaient déjà avant."
+ },
+ {
+  "id": "F01-10",
+  "s": "s1",
+  "t": "vf",
+  "q": "Le premier brevet de machine à espresso a été déposé par Angelo Moriondo, à Turin, en 1933.",
+  "a": false,
+  "w": "Faux : le brevet d'Angelo Moriondo date de 1884. L'année 1933 est celle du brevet de la cafetière Bialetti Moka, qui garde le nom du port yéménite."
+ },
+ {
+  "id": "F01-11",
+  "s": "s1",
+  "t": "vf",
+  "q": "Au XVIIe siècle, le café passe par l'Empire ottoman puis gagne l'Europe, où des cafés ouvrent à Londres à la fin du siècle.",
+  "a": true,
+  "w": "Vrai : c'est l'étape européenne de la petite histoire du café. Les cafés de Londres illustrent les échanges culturels, une des facettes de la mondialisation."
+ },
+ {
+  "id": "F01-12",
+  "s": "s1",
+  "t": "vf",
+  "q": "Selon Patrick Boucheron, un bon historien parvient à écrire l'histoire de façon parfaitement neutre, sans être influencé par son époque.",
+  "a": false,
+  "w": "Faux : pour Boucheron, l'historien « ne bénéficie d'aucun privilège d'extraterritorialité, il écrit toujours de quelque part ». Son époque, son pays et sa culture influencent son regard, donc l'histoire n'est jamais parfaitement neutre."
+ },
+ {
+  "id": "F01-13",
+  "s": "s1",
+  "t": "vf",
+  "q": "Aujourd'hui, le café est surtout produit par les pays riches (États-Unis, Europe, Japon) et importé par les pays du Sud.",
+  "a": false,
+  "w": "Faux, c'est l'inverse : le café est produit dans les pays du Sud (Amérique latine, Afrique, Asie du Sud-Est) et importé surtout par les pays riches. Cette inégalité entre producteurs et consommateurs est une des leçons du café."
+ },
+ {
+  "id": "F01-14",
+  "s": "s1",
+  "t": "vf",
+  "q": "L'idée du cours est qu'à partir d'une série d'événements du XVe siècle, le monde est connecté « pour de bon » : on étudie donc l'histoire des connexions entre les parties du monde plutôt que celle d'une seule civilisation.",
+  "a": true,
+  "w": "Vrai : c'est l'idée de départ du cours, qui succède à l'ancien cours Histoire de la civilisation occidentale. On ne raconte plus le monde seulement à partir de l'Europe."
+ },
+ {
+  "id": "F01-15",
+  "s": "s1",
+  "t": "courte",
+  "q": "Interaction généralisée entre les différentes parties de l'humanité, qui s'observe par un ensemble de connexions politiques, économiques, culturelles, sociales et environnementales (conflits, commerce, échanges culturels, rapports de domination, diffusions biologiques).",
+  "acc": [
+   "mondialisation"
+  ],
+  "m": "La mondialisation. C'est la définition du prof : une interaction généralisée entre les parties de l'humanité, visible dans des connexions politiques, économiques, culturelles, sociales et environnementales.",
+  "k": [
+   "interaction généralisée",
+   "connexions",
+   "humanité"
+  ]
+ },
+ {
+  "id": "F01-16",
+  "s": "s1",
+  "t": "courte",
+  "q": "Historien qui a écrit : « L'historien ne bénéficie d'aucun privilège d'extraterritorialité, il écrit toujours de quelque part. »",
+  "acc": [
+   "patrick boucheron",
+   "boucheron"
+  ],
+  "m": "Patrick Boucheron. Sa phrase signifie que l'historien est situé : son époque, son pays et sa culture influencent son regard, si bien que l'histoire n'est jamais parfaitement neutre.",
+  "k": [
+   "Boucheron",
+   "historien situé",
+   "neutralité"
+  ]
+ },
+ {
+  "id": "F01-17",
+  "s": "s1",
+  "t": "courte",
+  "q": "Erreur qui consiste à juger les gens du passé avec les valeurs d'aujourd'hui, ce que la phrase de Hartley « The past is a foreign country » invite à éviter.",
+  "acc": [
+   "anachronisme"
+  ],
+  "m": "L'anachronisme. Le passé est un pays étranger : les gens d'autrefois pensaient et agissaient autrement, et on ne peut pas les juger avec nos valeurs d'aujourd'hui.",
+  "k": [
+   "anachronisme",
+   "Hartley",
+   "valeurs d'aujourd'hui"
+  ]
+ },
+ {
+  "id": "F01-18",
+  "s": "s1",
+  "t": "courte",
+  "q": "Port du Yémen qui exporte le café au XVe siècle et dont le nom a été repris par la cafetière Bialetti brevetée en 1933.",
+  "acc": [
+   "moka",
+   "mocha",
+   "port de moka"
+  ],
+  "m": "Moka (Mocha), au Yémen. Le port exporte le café dès le XVe siècle, et la cafetière Bialetti Moka (1933) en garde le nom : un bel exemple de connexion commerciale.",
+  "k": [
+   "Moka",
+   "Yémen",
+   "commerce"
+  ]
+ },
+ {
+  "id": "F01-19",
+  "s": "s1",
+  "t": "courte",
+  "q": "Pourquoi le prof a-t-il ouvert le cours avec la petite histoire du café ?",
+  "acc": [],
+  "m": "Parce que le café résume toutes les facettes de la mondialisation : le commerce (le port de Moka), les échanges culturels (les cafés de Londres), la domination (colonies et esclavage à Saint-Domingue et au Brésil), la diffusion biologique (une plante d'Éthiopie cultivée sur trois continents) et les inégalités entre pays producteurs du Sud et pays riches consommateurs.",
+  "k": [
+   "commerce",
+   "domination",
+   "diffusion biologique",
+   "inégalités"
+  ]
+ }
+]

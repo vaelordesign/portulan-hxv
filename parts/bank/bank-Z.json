@@ -1,0 +1,41 @@
+[
+ {
+  "id": "Z01",
+  "s": "s1",
+  "t": "courte",
+  "q": "Approche historique qui étudie les liens, les échanges et les influences réciproques entre les différentes parties du monde, plutôt que l'histoire d'un seul pays ou d'une seule civilisation.",
+  "acc": [
+   "histoire globale",
+   "histoire connectee",
+   "histoire mondiale"
+  ],
+  "m": "L'histoire globale (ou histoire connectée) : c'est l'approche du cours et du manuel, « une histoire connectée du XVe siècle à nos jours ».",
+  "k": [
+   "liens",
+   "échanges",
+   "connexions"
+  ]
+ },
+ {
+  "id": "Z02",
+  "s": "s1",
+  "t": "qcm",
+  "q": "Comment le plan de cours nomme-t-il la période 1500-1825 ?",
+  "o": [
+   "La connexion de l'espace mondial",
+   "L'ère de l'hégémonie occidentale",
+   "Les reconfigurations mondiales",
+   "Le monde avant 1500"
+  ],
+  "a": 0,
+  "w": "Le plan de cours découpe la session en quatre temps : le monde avant 1500, la connexion de l'espace mondial (1500-1825), l'ère de l'hégémonie occidentale (1750-1900) et les reconfigurations mondiales (depuis 1900)."
+ },
+ {
+  "id": "Z03",
+  "s": "s1",
+  "t": "vf",
+  "q": "Le manuel du cours s'intitule Histoire du monde. Une histoire connectée du XVe siècle à nos jours.",
+  "a": true,
+  "w": "Vrai : le titre annonce l'approche du cours, l'histoire des connexions entre les parties du monde."
+ }
+]

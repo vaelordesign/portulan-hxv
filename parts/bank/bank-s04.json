@@ -1,0 +1,259 @@
+[
+ {
+  "id": "F04-01",
+  "s": "s4",
+  "t": "qcm",
+  "q": "Où apparaissent les premiers foyers de la peste noire, dans les années 1330-1340 ?",
+  "o": [
+   "À Messine et à Gênes",
+   "Au Caire et à Damas",
+   "En Afrique du Nord",
+   "En Asie centrale et en Chine"
+  ],
+  "a": 3,
+  "w": "La maladie apparaît d'abord en Asie centrale et en Chine, puis les routes commerciales de l'Empire mongol la transportent vers l'ouest. Messine, Gênes, Le Caire et Damas ne sont touchées que plus tard."
+ },
+ {
+  "id": "F04-02",
+  "s": "s4",
+  "t": "qcm",
+  "q": "Selon le cours, que prouve la peste noire sur l'histoire des connexions mondiales ?",
+  "o": [
+   "Que l'Europe vivait isolée du reste du monde avant 1492",
+   "Que le monde était déjà connecté avant 1492",
+   "Que la maladie ne frappait que l'Occident",
+   "Que les connexions mondiales naissent seulement au XVIe siècle"
+  ],
+  "a": 1,
+  "w": "Une même maladie voyage sur les routes sécurisées par les Mongols et frappe à la fois l'Orient et l'Occident. Les connexions mondiales existent donc déjà avant le XVe siècle."
+ },
+ {
+  "id": "F04-03",
+  "s": "s4",
+  "t": "qcm",
+  "q": "Selon le graphique vu en classe, comment évolue la population de l'Europe entre 1300 et 1400 ?",
+  "o": [
+   "Environ 60 à 80 millions en 1300, puis 35 à 45 millions en 1400",
+   "Environ 35 à 45 millions en 1300, puis 60 à 80 millions en 1400",
+   "Environ 60 à 80 millions en 1300, puis 55 à 75 millions en 1400",
+   "Environ 100 à 120 millions en 1300, puis 10 à 20 millions en 1400"
+  ],
+  "a": 0,
+  "w": "Selon le graphique de la séance 3, l'Europe passe d'environ 60 à 80 millions d'habitants en 1300 à 35 à 45 millions en 1400. C'est une des grandes conséquences de la peste noire."
+ },
+ {
+  "id": "F04-04",
+  "s": "s4",
+  "t": "qcm",
+  "q": "Après la Sicile (1347), quelles villes la peste atteint-elle ensuite par bateau ?",
+  "o": [
+   "Kiev, Legnica et Sajó",
+   "Tabriz, Samarcande et Kachgar",
+   "Marseille, Gênes et Venise",
+   "Kaifeng, Caizhou et Zhongdu"
+  ],
+  "a": 2,
+  "w": "Par la mer, la peste passe par Constantinople et Messine (1347), puis par Marseille, Gênes et Venise. Toute l'Europe est touchée entre 1348 et 1352."
+ },
+ {
+  "id": "F04-05",
+  "s": "s4",
+  "t": "qcm",
+  "q": "Que montre la danse macabre de la fresque de Clusone, en Italie ?",
+  "o": [
+   "La joie des survivants une fois l'épidémie terminée",
+   "L'obsession de la mort qui marque les mentalités",
+   "Des échanges artistiques entre la Chine et l'Italie",
+   "Une fête organisée pour chasser la maladie des villes"
+  ],
+  "a": 1,
+  "w": "La peste nourrit une obsession de la mort dans les mentalités. La danse macabre de Clusone, montrée sur la diapo, en est un exemple."
+ },
+ {
+  "id": "F04-06",
+  "s": "s4",
+  "t": "qcm",
+  "q": "Pourquoi la Muqaddima d'Ibn Khaldun est-elle précieuse pour étudier la peste noire ?",
+  "o": [
+   "C'est une source secondaire écrite par un historien européen récent",
+   "C'est le récit de voyage de Marco Polo à la cour de Kubilai",
+   "C'est une source primaire écrite par un témoin, du côté du monde musulman",
+   "C'est une carte de l'Atlas catalan qui suit le trajet de la maladie"
+  ],
+  "a": 2,
+  "w": "Ibn Khaldun (1332-1406) a vécu l'épidémie : la Muqaddima (1377) est donc une source primaire écrite, qui donne le point de vue du monde musulman."
+ },
+ {
+  "id": "F04-07",
+  "s": "s4",
+  "t": "qcm",
+  "q": "Selon Ibn Khaldun, quel effet la « peste terrible » a-t-elle sur les empires ?",
+  "o": [
+   "Elle s'abat sur des empires déjà en déclin et les menace de destruction",
+   "Elle épargne les grands empires et ne frappe que les villages",
+   "Elle renforce les empires en les débarrassant de leurs ennemis",
+   "Elle ne touche que les empires d'Occident et épargne l'Orient"
+  ],
+  "a": 0,
+  "w": "Ibn Khaldun écrit que la peste frappe l'Orient et l'Occident, emporte une grande partie de la génération et affaiblit des empires déjà en déclin au point de les menacer de destruction."
+ },
+ {
+  "id": "F04-08",
+  "s": "s4",
+  "t": "qcm",
+  "q": "Pendant quelles années la peste noire ravage-t-elle l'Europe ?",
+  "o": [
+   "De 1258 à 1260",
+   "De 1325 à 1354",
+   "De 1377 à 1406",
+   "De 1347 à 1352"
+  ],
+  "a": 3,
+  "w": "La peste noire frappe l'Europe de 1347 (Messine) à 1352. Attention aux dates voisines : 1325-1354 correspond aux voyages d'Ibn Battuta, 1377 à la Muqaddima et 1406 à la mort d'Ibn Khaldun."
+ },
+ {
+  "id": "F04-09",
+  "s": "s4",
+  "t": "qcm",
+  "q": "En Europe, quels boucs émissaires accuse-t-on d'empoisonner les puits pendant la peste ?",
+  "o": [
+   "Des communautés juives",
+   "Des marchands génois",
+   "Des soldats de la Horde d'Or",
+   "Des marins de Messine"
+  ],
+  "a": 0,
+  "w": "Complément de la fiche : en Europe, on cherche des boucs émissaires, et des communautés juives sont accusées à tort d'empoisonner les puits, puis massacrées."
+ },
+ {
+  "id": "F04-10",
+  "s": "s4",
+  "t": "vf",
+  "q": "On estime qu'entre un tiers et la moitié des Européens meurent de la peste noire.",
+  "a": true,
+  "w": "C'est l'estimation retenue dans le cours. Elle concorde avec le graphique vu en classe : l'Europe tombe d'environ 60 à 80 millions d'habitants en 1300 à 35 à 45 millions en 1400."
+ },
+ {
+  "id": "F04-11",
+  "s": "s4",
+  "t": "vf",
+  "q": "En Europe de l'Ouest, le manque de main-d'œuvre causé par la peste fait baisser les salaires et renforce le servage.",
+  "a": false,
+  "w": "C'est l'inverse (encadré Complément) : faute de bras, les salaires montent et le servage s'affaiblit."
+ },
+ {
+  "id": "F04-12",
+  "s": "s4",
+  "t": "vf",
+  "q": "La peste noire ravage l'Europe, mais épargne le monde musulman.",
+  "a": false,
+  "w": "Elle frappe aussi Le Caire, Damas et l'Afrique du Nord. Ibn Khaldun, témoin du côté musulman, décrit d'ailleurs une peste qui touche à la fois l'Orient et l'Occident."
+ },
+ {
+  "id": "F04-13",
+  "s": "s4",
+  "t": "vf",
+  "q": "La maladie voyage sur les routes commerciales de l'Empire mongol, transportée par des rats, des puces, des marchands et des soldats.",
+  "a": true,
+  "w": "La peste emprunte les routes que les Mongols ont sécurisées : c'est une connexion biologique entre l'Orient et l'Occident."
+ },
+ {
+  "id": "F04-14",
+  "s": "s4",
+  "t": "vf",
+  "q": "Après la peste, des terres ne sont plus cultivées, faute de bras pour les travailler.",
+  "a": true,
+  "w": "Les campagnes et les villes se vident. Ibn Khaldun le confirme : faute d'hommes, la culture des terres s'arrête et les villages restent vides."
+ },
+ {
+  "id": "F04-15",
+  "s": "s4",
+  "t": "courte",
+  "q": "Historien né à Tunis en 1332 et mort en 1406, témoin de la peste noire, qui la décrit dans un ouvrage de 1377.",
+  "acc": [
+   "Ibn Khaldun",
+   "Ibn Khaldoun",
+   "Ibn Haldun"
+  ],
+  "m": "Ibn Khaldun, historien né à Tunis et témoin de l'épidémie, auteur de la Muqaddima (1377). Son texte est une source primaire écrite du côté du monde musulman.",
+  "k": [
+   "Tunis",
+   "témoin",
+   "Muqaddima",
+   "monde musulman"
+  ]
+ },
+ {
+  "id": "F04-16",
+  "s": "s4",
+  "t": "courte",
+  "q": "Ouvrage de 1377 dans lequel Ibn Khaldun décrit une « peste terrible » qui frappe à la fois les peuples de l'Orient et de l'Occident.",
+  "acc": [
+   "Muqaddima",
+   "Muqaddimah",
+   "Al-Muqaddima",
+   "Moqaddima"
+  ],
+  "m": "La Muqaddima (1377) d'Ibn Khaldun, une source primaire. La peste y emporte une grande partie de la génération, vide les villes et les campagnes et affaiblit des empires déjà en déclin.",
+  "k": [
+   "Ibn Khaldun",
+   "1377",
+   "source primaire",
+   "empires"
+  ]
+ },
+ {
+  "id": "F04-17",
+  "s": "s4",
+  "t": "courte",
+  "q": "Ville de Sicile atteinte par la peste en 1347, après Constantinople et avant Marseille, Gênes et Venise.",
+  "acc": [
+   "Messine",
+   "Messina"
+  ],
+  "m": "Messine, en Sicile, touchée par bateau en 1347, après Constantinople. Ensuite, la peste gagne Marseille, Gênes et Venise, puis toute l'Europe entre 1348 et 1352.",
+  "k": [
+   "Sicile",
+   "1347",
+   "bateau",
+   "toute l'Europe"
+  ]
+ },
+ {
+  "id": "F04-18",
+  "s": "s4",
+  "t": "courte",
+  "q": "Comptoir génois de Crimée assiégé par la Horde d'Or en 1346, où la maladie passe aux marchands génois.",
+  "acc": [
+   "Caffa",
+   "Kaffa"
+  ],
+  "m": "Caffa, comptoir génois de Crimée. Pendant le siège de 1346 par la Horde d'Or, la maladie passe aux marchands génois, puis gagne par bateau Constantinople et Messine.",
+  "k": [
+   "Crimée",
+   "1346",
+   "Horde d'Or",
+   "marchands génois"
+  ]
+ },
+ {
+  "id": "F04-19",
+  "s": "s4",
+  "t": "courte",
+  "q": "Dimension de la mondialisation illustrée par la peste noire : une même maladie traverse l'Eurasie et l'Afrique du Nord en quelques années, grâce aux routes ouvertes par l'Empire mongol.",
+  "acc": [
+   "diffusion biologique",
+   "environnementale",
+   "dimension environnementale",
+   "connexion biologique",
+   "biologique"
+  ],
+  "m": "La dimension environnementale, par une diffusion biologique : une même maladie traverse l'Eurasie et l'Afrique du Nord en quelques années, grâce aux routes ouvertes par l'Empire mongol.",
+  "k": [
+   "mondialisation",
+   "Empire mongol",
+   "peste noire",
+   "avant le XVe siècle"
+  ]
+ }
+]
